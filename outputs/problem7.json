@@ -1,0 +1,2961 @@
+[
+  { "season": 2008, "batsman": "A Chopra", "strike_rate": 86.53846153846153 },
+  { "season": 2008, "batsman": "A Kumble", "strike_rate": 100 },
+  { "season": 2008, "batsman": "A Mishra", "strike_rate": 88.0952380952381 },
+  { "season": 2008, "batsman": "A Mukund", "strike_rate": 0 },
+  { "season": 2008, "batsman": "A Nehra", "strike_rate": 41.66666666666666 },
+  { "season": 2008, "batsman": "A Symonds", "strike_rate": 162.5 },
+  { "season": 2008, "batsman": "AA Noffke", "strike_rate": 110 },
+  {
+    "season": 2008,
+    "batsman": "AB Agarkar",
+    "strike_rate": 131.11111111111111
+  },
+  {
+    "season": 2008,
+    "batsman": "AB de Villiers",
+    "strike_rate": 101.0204081632653
+  },
+  { "season": 2008, "batsman": "AB Dinda", "strike_rate": 75 },
+  { "season": 2008, "batsman": "Abdur Razzak", "strike_rate": 0 },
+  {
+    "season": 2008,
+    "batsman": "AC Gilchrist",
+    "strike_rate": 146.4968152866242
+  },
+  { "season": 2008, "batsman": "AD Mascarenhas", "strike_rate": 112.5 },
+  { "season": 2008, "batsman": "AM Nayar", "strike_rate": 158.3941605839416 },
+  { "season": 2008, "batsman": "AM Rahane", "strike_rate": 35.294117647058826 },
+  { "season": 2008, "batsman": "AS Yadav", "strike_rate": 133.33333333333334 },
+  { "season": 2008, "batsman": "B Akhil", "strike_rate": 158.06451612903226 },
+  { "season": 2008, "batsman": "B Chipli", "strike_rate": 78.57142857142857 },
+  { "season": 2008, "batsman": "B Lee", "strike_rate": 166.66666666666666 },
+  {
+    "season": 2008,
+    "batsman": "BB McCullum",
+    "strike_rate": 219.78021978021977
+  },
+  { "season": 2008, "batsman": "BJ Hodge", "strike_rate": 76.47058823529412 },
+  {
+    "season": 2008,
+    "batsman": "CK Kapugedera",
+    "strike_rate": 86.36363636363636
+  },
+  { "season": 2008, "batsman": "CL White", "strike_rate": 119 },
+  { "season": 2008, "batsman": "CRD Fernando", "strike_rate": 200 },
+  { "season": 2008, "batsman": "D Kalyankrishna", "strike_rate": 50 },
+  { "season": 2008, "batsman": "D Salunkhe", "strike_rate": 137.5 },
+  { "season": 2008, "batsman": "DB Das", "strike_rate": 114.8936170212766 },
+  {
+    "season": 2008,
+    "batsman": "DB Ravi Teja",
+    "strike_rate": 143.20987654320987
+  },
+  { "season": 2008, "batsman": "DJ Bravo", "strike_rate": 145.0381679389313 },
+  { "season": 2008, "batsman": "DJ Hussey", "strike_rate": 130.6201550387597 },
+  { "season": 2008, "batsman": "DJ Thornely", "strike_rate": 100 },
+  { "season": 2008, "batsman": "DNT Zoysa", "strike_rate": 144.44444444444446 },
+  { "season": 2008, "batsman": "DP Vijaykumar", "strike_rate": 100 },
+  {
+    "season": 2008,
+    "batsman": "DPMD Jayawardene",
+    "strike_rate": 144.27480916030535
+  },
+  { "season": 2008, "batsman": "DR Smith", "strike_rate": 120 },
+  { "season": 2008, "batsman": "DS Kulkarni", "strike_rate": 18.75 },
+  {
+    "season": 2008,
+    "batsman": "DS Lehmann",
+    "strike_rate": 111.11111111111111
+  },
+  { "season": 2008, "batsman": "DT Patil", "strike_rate": 100 },
+  { "season": 2008, "batsman": "DW Steyn", "strike_rate": 40 },
+  { "season": 2008, "batsman": "G Gambhir", "strike_rate": 149.73544973544975 },
+  { "season": 2008, "batsman": "GC Smith", "strike_rate": 134.34903047091413 },
+  { "season": 2008, "batsman": "GD McGrath", "strike_rate": 80 },
+  { "season": 2008, "batsman": "H Das", "strike_rate": 40 },
+  {
+    "season": 2008,
+    "batsman": "Harbhajan Singh",
+    "strike_rate": 176.47058823529412
+  },
+  { "season": 2008, "batsman": "HH Gibbs", "strike_rate": 118.30065359477123 },
+  { "season": 2008, "batsman": "I Sharma", "strike_rate": 109.0909090909091 },
+  { "season": 2008, "batsman": "IK Pathan", "strike_rate": 126.95652173913044 },
+  { "season": 2008, "batsman": "Iqbal Abdulla", "strike_rate": 50 },
+  {
+    "season": 2008,
+    "batsman": "J Arunkumar",
+    "strike_rate": 108.69565217391305
+  },
+  { "season": 2008, "batsman": "JA Morkel", "strike_rate": 154.93827160493828 },
+  { "season": 2008, "batsman": "JDP Oram", "strike_rate": 158.33333333333334 },
+  { "season": 2008, "batsman": "JH Kallis", "strike_rate": 118.5792349726776 },
+  {
+    "season": 2008,
+    "batsman": "Joginder Sharma",
+    "strike_rate": 145.45454545454547
+  },
+  { "season": 2008, "batsman": "JR Hopes", "strike_rate": 154.72972972972974 },
+  { "season": 2008, "batsman": "K Goel", "strike_rate": 101.28205128205128 },
+  {
+    "season": 2008,
+    "batsman": "Kamran Akmal",
+    "strike_rate": 171.42857142857142
+  },
+  {
+    "season": 2008,
+    "batsman": "KC Sangakkara",
+    "strike_rate": 170.0507614213198
+  },
+  {
+    "season": 2008,
+    "batsman": "KD Karthik",
+    "strike_rate": 142.05607476635515
+  },
+  { "season": 2008, "batsman": "L Balaji", "strike_rate": 50 },
+  { "season": 2008, "batsman": "L Ronchi", "strike_rate": 112.5 },
+  {
+    "season": 2008,
+    "batsman": "LA Pomersbach",
+    "strike_rate": 168.68686868686868
+  },
+  { "season": 2008, "batsman": "LPC Silva", "strike_rate": 165.3846153846154 },
+  { "season": 2008, "batsman": "LR Shukla", "strike_rate": 143.44262295081967 },
+  {
+    "season": 2008,
+    "batsman": "LRPL Taylor",
+    "strike_rate": 192.59259259259255
+  },
+  { "season": 2008, "batsman": "M Kaif", "strike_rate": 114.11764705882354 },
+  { "season": 2008, "batsman": "M Kartik", "strike_rate": 125.92592592592592 },
+  { "season": 2008, "batsman": "M Muralitharan", "strike_rate": 0 },
+  { "season": 2008, "batsman": "M Ntini", "strike_rate": 66.66666666666667 },
+  { "season": 2008, "batsman": "M Rawat", "strike_rate": 92.3076923076923 },
+  { "season": 2008, "batsman": "MA Khote", "strike_rate": 122.72727272727272 },
+  { "season": 2008, "batsman": "MEK Hussey", "strike_rate": 170 },
+  {
+    "season": 2008,
+    "batsman": "MF Maharoof",
+    "strike_rate": 160.7594936708861
+  },
+  {
+    "season": 2008,
+    "batsman": "Misbah-ul-Haq",
+    "strike_rate": 153.08641975308643
+  },
+  { "season": 2008, "batsman": "MK Pandey", "strike_rate": 44.44444444444444 },
+  { "season": 2008, "batsman": "MK Tiwary", "strike_rate": 127.05882352941175 },
+  { "season": 2008, "batsman": "ML Hayden", "strike_rate": 166.14173228346456 },
+  { "season": 2008, "batsman": "MM Patel", "strike_rate": 0 },
+  { "season": 2008, "batsman": "Mohammad Asif", "strike_rate": 50 },
+  {
+    "season": 2008,
+    "batsman": "Mohammad Hafeez",
+    "strike_rate": 83.13253012048193
+  },
+  { "season": 2008, "batsman": "MS Dhoni", "strike_rate": 139.67741935483872 },
+  { "season": 2008, "batsman": "MS Gony", "strike_rate": 172.72727272727272 },
+  {
+    "season": 2008,
+    "batsman": "MV Boucher",
+    "strike_rate": 132.20338983050848
+  },
+  {
+    "season": 2008,
+    "batsman": "Niraj Patel",
+    "strike_rate": 135.80246913580248
+  },
+  { "season": 2008, "batsman": "P Kumar", "strike_rate": 120.40816326530611 },
+  { "season": 2008, "batsman": "PA Patel", "strike_rate": 113.89830508474576 },
+  { "season": 2008, "batsman": "Pankaj Singh", "strike_rate": 62.5 },
+  { "season": 2008, "batsman": "PJ Sangwan", "strike_rate": 60 },
+  { "season": 2008, "batsman": "PM Sarvesh Kumar", "strike_rate": 50 },
+  { "season": 2008, "batsman": "PP Chawla", "strike_rate": 160.3448275862069 },
+  { "season": 2008, "batsman": "PP Ojha", "strike_rate": 75 },
+  { "season": 2008, "batsman": "PR Shah", "strike_rate": 120.58823529411764 },
+  { "season": 2008, "batsman": "R Bhatia", "strike_rate": 132.14285714285714 },
+  { "season": 2008, "batsman": "R Dravid", "strike_rate": 126.93602693602692 },
+  {
+    "season": 2008,
+    "batsman": "R Vinay Kumar",
+    "strike_rate": 163.63636363636363
+  },
+  { "season": 2008, "batsman": "RA Jadeja", "strike_rate": 149 },
+  { "season": 2008, "batsman": "RG Sharma", "strike_rate": 155.1851851851852 },
+  { "season": 2008, "batsman": "RP Singh", "strike_rate": 120.83333333333331 },
+  { "season": 2008, "batsman": "RR Powar", "strike_rate": 138.0952380952381 },
+  { "season": 2008, "batsman": "RR Raje", "strike_rate": 88.88888888888889 },
+  { "season": 2008, "batsman": "RR Sarwan", "strike_rate": 102.66666666666669 },
+  { "season": 2008, "batsman": "RT Ponting", "strike_rate": 88.67924528301887 },
+  {
+    "season": 2008,
+    "batsman": "RV Uthappa",
+    "strike_rate": 131.38686131386862
+  },
+  { "season": 2008, "batsman": "S Anirudha", "strike_rate": 85.71428571428571 },
+  {
+    "season": 2008,
+    "batsman": "S Badrinath",
+    "strike_rate": 155.3846153846154
+  },
+  {
+    "season": 2008,
+    "batsman": "S Chanderpaul",
+    "strike_rate": 87.09677419354838
+  },
+  { "season": 2008, "batsman": "S Dhawan", "strike_rate": 123.72881355932203 },
+  { "season": 2008, "batsman": "S Sohal", "strike_rate": 50 },
+  {
+    "season": 2008,
+    "batsman": "S Sreesanth",
+    "strike_rate": 33.333333333333336
+  },
+  { "season": 2008, "batsman": "S Vidyut", "strike_rate": 143.11926605504587 },
+  {
+    "season": 2008,
+    "batsman": "SA Asnodkar",
+    "strike_rate": 149.35064935064935
+  },
+  { "season": 2008, "batsman": "Salman Butt", "strike_rate": 131.875 },
+  { "season": 2008, "batsman": "SB Bangar", "strike_rate": 97.95918367346938 },
+  { "season": 2008, "batsman": "SB Joshi", "strike_rate": 57.142857142857146 },
+  { "season": 2008, "batsman": "SB Styris", "strike_rate": 98.36065573770492 },
+  {
+    "season": 2008,
+    "batsman": "SC Ganguly",
+    "strike_rate": 126.55737704918032
+  },
+  {
+    "season": 2008,
+    "batsman": "SD Chitnis",
+    "strike_rate": 211.11111111111111
+  },
+  { "season": 2008, "batsman": "SE Marsh", "strike_rate": 146.36363636363637 },
+  {
+    "season": 2008,
+    "batsman": "Shahid Afridi",
+    "strike_rate": 178.2608695652174
+  },
+  {
+    "season": 2008,
+    "batsman": "Shoaib Akhtar",
+    "strike_rate": 42.85714285714285
+  },
+  {
+    "season": 2008,
+    "batsman": "Shoaib Malik",
+    "strike_rate": 123.91304347826087
+  },
+  { "season": 2008, "batsman": "SK Raina", "strike_rate": 149.65986394557822 },
+  { "season": 2008, "batsman": "SK Trivedi", "strike_rate": 41.66666666666666 },
+  { "season": 2008, "batsman": "SK Warne", "strike_rate": 127.58620689655172 },
+  { "season": 2008, "batsman": "SM Katich", "strike_rate": 152.94117647058823 },
+  {
+    "season": 2008,
+    "batsman": "SM Pollock",
+    "strike_rate": 138.73873873873873
+  },
+  {
+    "season": 2008,
+    "batsman": "Sohail Tanvir",
+    "strike_rate": 142.85714285714286
+  },
+  {
+    "season": 2008,
+    "batsman": "SP Fleming",
+    "strike_rate": 129.01234567901236
+  },
+  { "season": 2008, "batsman": "SP Goswami", "strike_rate": 97.6470588235294 },
+  {
+    "season": 2008,
+    "batsman": "SR Tendulkar",
+    "strike_rate": 120.90395480225988
+  },
+  { "season": 2008, "batsman": "SR Watson", "strike_rate": 161.56351791530943 },
+  { "season": 2008, "batsman": "SS Tiwary", "strike_rate": 130 },
+  {
+    "season": 2008,
+    "batsman": "ST Jayasuriya",
+    "strike_rate": 180.84415584415584
+  },
+  { "season": 2008, "batsman": "T Kohli", "strike_rate": 73.33333333333333 },
+  { "season": 2008, "batsman": "T Taibu", "strike_rate": 119.23076923076924 },
+  {
+    "season": 2008,
+    "batsman": "TM Dilshan",
+    "strike_rate": 135.89743589743588
+  },
+  { "season": 2008, "batsman": "TM Srivastava", "strike_rate": 80 },
+  { "season": 2008, "batsman": "U Kaul", "strike_rate": 0 },
+  { "season": 2008, "batsman": "Umar Gul", "strike_rate": 231.57894736842104 },
+  { "season": 2008, "batsman": "V Kohli", "strike_rate": 119.10828025477709 },
+  { "season": 2008, "batsman": "V Sehwag", "strike_rate": 200.46296296296296 },
+  { "season": 2008, "batsman": "VRV Singh", "strike_rate": 166.66666666666666 },
+  { "season": 2008, "batsman": "VS Yeligati", "strike_rate": 100 },
+  {
+    "season": 2008,
+    "batsman": "VVS Laxman",
+    "strike_rate": 120.45454545454544
+  },
+  { "season": 2008, "batsman": "VY Mahesh", "strike_rate": 77.77777777777777 },
+  { "season": 2008, "batsman": "W Jaffer", "strike_rate": 117.3076923076923 },
+  { "season": 2008, "batsman": "WA Mota", "strike_rate": 100 },
+  { "season": 2008, "batsman": "WP Saha", "strike_rate": 137.81512605042016 },
+  { "season": 2008, "batsman": "WPUJC Vaas", "strike_rate": 135.2941176470588 },
+  {
+    "season": 2008,
+    "batsman": "Y Venugopal Rao",
+    "strike_rate": 146.8599033816425
+  },
+  { "season": 2008, "batsman": "YK Pathan", "strike_rate": 189.9581589958159 },
+  {
+    "season": 2008,
+    "batsman": "Younis Khan",
+    "strike_rate": 42.85714285714285
+  },
+  {
+    "season": 2008,
+    "batsman": "Yuvraj Singh",
+    "strike_rate": 166.84782608695653
+  },
+  { "season": 2008, "batsman": "YV Takawale", "strike_rate": 121.875 },
+  { "season": 2008, "batsman": "Z Khan", "strike_rate": 85.71428571428571 },
+  { "season": 2009, "batsman": "A Chopra", "strike_rate": 68.42105263157895 },
+  { "season": 2009, "batsman": "A Flintoff", "strike_rate": 135.8490566037736 },
+  { "season": 2009, "batsman": "A Kumble", "strike_rate": 89.47368421052632 },
+  { "season": 2009, "batsman": "A Mishra", "strike_rate": 135 },
+  { "season": 2009, "batsman": "A Nehra", "strike_rate": 100 },
+  { "season": 2009, "batsman": "A Singh", "strike_rate": 33.333333333333336 },
+  { "season": 2009, "batsman": "A Symonds", "strike_rate": 158.8957055214724 },
+  { "season": 2009, "batsman": "AA Bilakhia", "strike_rate": 95 },
+  {
+    "season": 2009,
+    "batsman": "AB Agarkar",
+    "strike_rate": 122.80701754385964
+  },
+  {
+    "season": 2009,
+    "batsman": "AB de Villiers",
+    "strike_rate": 133.33333333333334
+  },
+  { "season": 2009, "batsman": "AB Dinda", "strike_rate": 66.66666666666667 },
+  { "season": 2009, "batsman": "AB McDonald", "strike_rate": 75 },
+  {
+    "season": 2009,
+    "batsman": "AC Gilchrist",
+    "strike_rate": 161.49068322981367
+  },
+  {
+    "season": 2009,
+    "batsman": "AD Mascarenhas",
+    "strike_rate": 102.56410256410255
+  },
+  {
+    "season": 2009,
+    "batsman": "AD Mathews",
+    "strike_rate": 130.76923076923077
+  },
+  { "season": 2009, "batsman": "AM Nayar", "strike_rate": 135.76158940397352 },
+  { "season": 2009, "batsman": "AM Rahane", "strike_rate": 132.23140495867767 },
+  { "season": 2009, "batsman": "AN Ghosh", "strike_rate": 87.5 },
+  { "season": 2009, "batsman": "AS Raut", "strike_rate": 136.0655737704918 },
+  { "season": 2009, "batsman": "B Akhil", "strike_rate": 120 },
+  { "season": 2009, "batsman": "B Lee", "strike_rate": 91.17647058823528 },
+  { "season": 2009, "batsman": "BAW Mendis", "strike_rate": 0 },
+  {
+    "season": 2009,
+    "batsman": "BB McCullum",
+    "strike_rate": 130.9322033898305
+  },
+  { "season": 2009, "batsman": "BJ Hodge", "strike_rate": 122.0064724919094 },
+  { "season": 2009, "batsman": "C Nanda", "strike_rate": 0 },
+  { "season": 2009, "batsman": "CH Gayle", "strike_rate": 135.8108108108108 },
+  { "season": 2009, "batsman": "D du Preez", "strike_rate": 76.92307692307692 },
+  { "season": 2009, "batsman": "DA Warner", "strike_rate": 129.54545454545453 },
+  {
+    "season": 2009,
+    "batsman": "DB Ravi Teja",
+    "strike_rate": 105.71428571428572
+  },
+  { "season": 2009, "batsman": "DJ Bravo", "strike_rate": 114.92537313432835 },
+  { "season": 2009, "batsman": "DJ Hussey", "strike_rate": 180.7017543859649 },
+  {
+    "season": 2009,
+    "batsman": "DL Vettori",
+    "strike_rate": 119.35483870967742
+  },
+  {
+    "season": 2009,
+    "batsman": "DPMD Jayawardene",
+    "strike_rate": 139.3939393939394
+  },
+  { "season": 2009, "batsman": "DR Smith", "strike_rate": 170.99236641221373 },
+  {
+    "season": 2009,
+    "batsman": "DS Kulkarni",
+    "strike_rate": 64.70588235294117
+  },
+  { "season": 2009, "batsman": "DW Steyn", "strike_rate": 0 },
+  { "season": 2009, "batsman": "FH Edwards", "strike_rate": 80 },
+  { "season": 2009, "batsman": "G Gambhir", "strike_rate": 108.69565217391305 },
+  { "season": 2009, "batsman": "GC Smith", "strike_rate": 105.6338028169014 },
+  { "season": 2009, "batsman": "GJ Bailey", "strike_rate": 130.76923076923077 },
+  { "season": 2009, "batsman": "GR Napier", "strike_rate": 93.75 },
+  {
+    "season": 2009,
+    "batsman": "Harbhajan Singh",
+    "strike_rate": 171.69811320754718
+  },
+  { "season": 2009, "batsman": "HH Gibbs", "strike_rate": 121.8181818181818 },
+  { "season": 2009, "batsman": "I Sharma", "strike_rate": 130.76923076923077 },
+  { "season": 2009, "batsman": "IK Pathan", "strike_rate": 140.50632911392404 },
+  { "season": 2009, "batsman": "J Botha", "strike_rate": 135.89743589743588 },
+  { "season": 2009, "batsman": "JA Morkel", "strike_rate": 145.71428571428572 },
+  { "season": 2009, "batsman": "JD Ryder", "strike_rate": 118.75 },
+  { "season": 2009, "batsman": "JDP Oram", "strike_rate": 98.91304347826087 },
+  { "season": 2009, "batsman": "JH Kallis", "strike_rate": 116.3141993957704 },
+  {
+    "season": 2009,
+    "batsman": "Joginder Sharma",
+    "strike_rate": 111.11111111111111
+  },
+  { "season": 2009, "batsman": "JP Duminy", "strike_rate": 120.6153846153846 },
+  { "season": 2009, "batsman": "K Goel", "strike_rate": 102.25563909774436 },
+  { "season": 2009, "batsman": "Kamran Khan", "strike_rate": 60 },
+  {
+    "season": 2009,
+    "batsman": "KC Sangakkara",
+    "strike_rate": 111.49068322981368
+  },
+  {
+    "season": 2009,
+    "batsman": "KD Karthik",
+    "strike_rate": 139.63133640552996
+  },
+  { "season": 2009, "batsman": "KP Appanna", "strike_rate": 100 },
+  {
+    "season": 2009,
+    "batsman": "KP Pietersen",
+    "strike_rate": 120.23809523809524
+  },
+  { "season": 2009, "batsman": "KV Sharma", "strike_rate": 33.333333333333336 },
+  { "season": 2009, "batsman": "L Balaji", "strike_rate": 70 },
+  { "season": 2009, "batsman": "L Ronchi", "strike_rate": 50 },
+  {
+    "season": 2009,
+    "batsman": "LA Carseldine",
+    "strike_rate": 131.8181818181818
+  },
+  {
+    "season": 2009,
+    "batsman": "LA Pomersbach",
+    "strike_rate": 97.82608695652172
+  },
+  { "season": 2009, "batsman": "LR Shukla", "strike_rate": 102.3529411764706 },
+  {
+    "season": 2009,
+    "batsman": "LRPL Taylor",
+    "strike_rate": 144.1747572815534
+  },
+  { "season": 2009, "batsman": "M Kartik", "strike_rate": 105 },
+  { "season": 2009, "batsman": "M Manhas", "strike_rate": 129.03225806451613 },
+  { "season": 2009, "batsman": "M Morkel", "strike_rate": 112.5 },
+  { "season": 2009, "batsman": "M Muralitharan", "strike_rate": 100 },
+  { "season": 2009, "batsman": "M Rawat", "strike_rate": 94.73684210526316 },
+  { "season": 2009, "batsman": "M Vijay", "strike_rate": 100 },
+  { "season": 2009, "batsman": "Mashrafe Mortaza", "strike_rate": 100 },
+  { "season": 2009, "batsman": "MC Henriques", "strike_rate": 95 },
+  { "season": 2009, "batsman": "MF Maharoof", "strike_rate": 100 },
+  { "season": 2009, "batsman": "MK Pandey", "strike_rate": 147.008547008547 },
+  { "season": 2009, "batsman": "MK Tiwary", "strike_rate": 69.23076923076923 },
+  { "season": 2009, "batsman": "ML Hayden", "strike_rate": 159.2875318066158 },
+  { "season": 2009, "batsman": "MM Patel", "strike_rate": 126.92307692307692 },
+  { "season": 2009, "batsman": "MN van Wyk", "strike_rate": 133.587786259542 },
+  { "season": 2009, "batsman": "Mohammad Ashraful", "strike_rate": 50 },
+  { "season": 2009, "batsman": "MS Dhoni", "strike_rate": 131.4176245210728 },
+  { "season": 2009, "batsman": "MS Gony", "strike_rate": 185.7142857142857 },
+  {
+    "season": 2009,
+    "batsman": "MV Boucher",
+    "strike_rate": 139.47368421052633
+  },
+  {
+    "season": 2009,
+    "batsman": "Niraj Patel",
+    "strike_rate": 55.26315789473684
+  },
+  { "season": 2009, "batsman": "NV Ojha", "strike_rate": 118.05555555555556 },
+  { "season": 2009, "batsman": "P Kumar", "strike_rate": 141.30434782608697 },
+  { "season": 2009, "batsman": "PA Patel", "strike_rate": 124.6031746031746 },
+  { "season": 2009, "batsman": "Pankaj Singh", "strike_rate": 50 },
+  { "season": 2009, "batsman": "PC Valthaty", "strike_rate": 50 },
+  { "season": 2009, "batsman": "PJ Sangwan", "strike_rate": 60 },
+  { "season": 2009, "batsman": "PP Chawla", "strike_rate": 108.33333333333331 },
+  { "season": 2009, "batsman": "PP Ojha", "strike_rate": 28.571428571428573 },
+  { "season": 2009, "batsman": "PR Shah", "strike_rate": 113.72549019607844 },
+  { "season": 2009, "batsman": "R Ashwin", "strike_rate": 53.333333333333336 },
+  { "season": 2009, "batsman": "R Bhatia", "strike_rate": 44.44444444444444 },
+  { "season": 2009, "batsman": "R Bishnoi", "strike_rate": 111.76470588235294 },
+  { "season": 2009, "batsman": "R Dravid", "strike_rate": 119.65811965811966 },
+  {
+    "season": 2009,
+    "batsman": "R Vinay Kumar",
+    "strike_rate": 109.0909090909091
+  },
+  { "season": 2009, "batsman": "RA Jadeja", "strike_rate": 117.73584905660375 },
+  {
+    "season": 2009,
+    "batsman": "RE van der Merwe",
+    "strike_rate": 131.6326530612245
+  },
+  { "season": 2009, "batsman": "RG Sharma", "strike_rate": 121.08626198083068 },
+  { "season": 2009, "batsman": "RJ Harris", "strike_rate": 122.22222222222224 },
+  { "season": 2009, "batsman": "RJ Quiney", "strike_rate": 111.76470588235294 },
+  { "season": 2009, "batsman": "RP Singh", "strike_rate": 52.94117647058823 },
+  { "season": 2009, "batsman": "RR Powar", "strike_rate": 104.54545454545456 },
+  { "season": 2009, "batsman": "RR Raje", "strike_rate": 133.33333333333334 },
+  { "season": 2009, "batsman": "RS Bopara", "strike_rate": 126.05042016806723 },
+  {
+    "season": 2009,
+    "batsman": "RV Uthappa",
+    "strike_rate": 110.58823529411764
+  },
+  {
+    "season": 2009,
+    "batsman": "S Badrinath",
+    "strike_rate": 116.46341463414636
+  },
+  { "season": 2009, "batsman": "S Dhawan", "strike_rate": 91.11111111111111 },
+  { "season": 2009, "batsman": "S Sohal", "strike_rate": 138.46153846153845 },
+  {
+    "season": 2009,
+    "batsman": "S Sreesanth",
+    "strike_rate": 38.888888888888886
+  },
+  { "season": 2009, "batsman": "SA Asnodkar", "strike_rate": 110.752688172043 },
+  { "season": 2009, "batsman": "SB Bangar", "strike_rate": 55.55555555555556 },
+  { "season": 2009, "batsman": "SB Jakati", "strike_rate": 140 },
+  { "season": 2009, "batsman": "SB Styris", "strike_rate": 175 },
+  { "season": 2009, "batsman": "SC Ganguly", "strike_rate": 97.5609756097561 },
+  { "season": 2009, "batsman": "SD Chitnis", "strike_rate": 87.5 },
+  {
+    "season": 2009,
+    "batsman": "Shoaib Ahmed",
+    "strike_rate": 16.666666666666668
+  },
+  { "season": 2009, "batsman": "SK Raina", "strike_rate": 147.3856209150327 },
+  { "season": 2009, "batsman": "SK Trivedi", "strike_rate": 64.70588235294117 },
+  { "season": 2009, "batsman": "SK Warne", "strike_rate": 97.41379310344828 },
+  { "season": 2009, "batsman": "SL Malinga", "strike_rate": 0 },
+  { "season": 2009, "batsman": "SM Harwood", "strike_rate": 100 },
+  { "season": 2009, "batsman": "SM Katich", "strike_rate": 128.2051282051282 },
+  { "season": 2009, "batsman": "SP Goswami", "strike_rate": 95 },
+  {
+    "season": 2009,
+    "batsman": "SR Tendulkar",
+    "strike_rate": 130.43478260869566
+  },
+  { "season": 2009, "batsman": "SS Shaikh", "strike_rate": 85.71428571428571 },
+  { "season": 2009, "batsman": "SS Tiwary", "strike_rate": 108.33333333333331 },
+  {
+    "season": 2009,
+    "batsman": "ST Jayasuriya",
+    "strike_rate": 129.47368421052633
+  },
+  { "season": 2009, "batsman": "T Henderson", "strike_rate": 80 },
+  { "season": 2009, "batsman": "T Kohli", "strike_rate": 25 },
+  { "season": 2009, "batsman": "T Thushara", "strike_rate": 42.85714285714285 },
+  { "season": 2009, "batsman": "TL Suman", "strike_rate": 128.42105263157896 },
+  {
+    "season": 2009,
+    "batsman": "TM Dilshan",
+    "strike_rate": 133.03834808259586
+  },
+  { "season": 2009, "batsman": "TM Srivastava", "strike_rate": 0 },
+  { "season": 2009, "batsman": "V Kohli", "strike_rate": 117.8082191780822 },
+  { "season": 2009, "batsman": "V Sehwag", "strike_rate": 164.17910447761193 },
+  { "season": 2009, "batsman": "VVS Laxman", "strike_rate": 57.57575757575758 },
+  { "season": 2009, "batsman": "W Jaffer", "strike_rate": 100 },
+  { "season": 2009, "batsman": "WA Mota", "strike_rate": 75 },
+  { "season": 2009, "batsman": "WP Saha", "strike_rate": 178.0487804878049 },
+  {
+    "season": 2009,
+    "batsman": "WPUJC Vaas",
+    "strike_rate": 142.85714285714286
+  },
+  { "season": 2009, "batsman": "Y Nagar", "strike_rate": 110 },
+  {
+    "season": 2009,
+    "batsman": "Y Venugopal Rao",
+    "strike_rate": 113.15789473684212
+  },
+  {
+    "season": 2009,
+    "batsman": "Yashpal Singh",
+    "strike_rate": 75.38461538461539
+  },
+  { "season": 2009, "batsman": "YK Pathan", "strike_rate": 145.45454545454547 },
+  {
+    "season": 2009,
+    "batsman": "Yuvraj Singh",
+    "strike_rate": 126.87074829931971
+  },
+  {
+    "season": 2009,
+    "batsman": "YV Takawale",
+    "strike_rate": 81.81818181818181
+  },
+  { "season": 2009, "batsman": "Z Khan", "strike_rate": 72.72727272727273 },
+  { "season": 2010, "batsman": "A Kumble", "strike_rate": 72.72727272727273 },
+  { "season": 2010, "batsman": "A Mishra", "strike_rate": 90 },
+  { "season": 2010, "batsman": "A Mithun", "strike_rate": 125 },
+  { "season": 2010, "batsman": "A Nehra", "strike_rate": 126.3157894736842 },
+  { "season": 2010, "batsman": "A Symonds", "strike_rate": 134.11764705882354 },
+  { "season": 2010, "batsman": "A Uniyal", "strike_rate": 57.142857142857146 },
+  { "season": 2010, "batsman": "AA Bilakhia", "strike_rate": 50 },
+  {
+    "season": 2010,
+    "batsman": "AA Jhunjhunwala",
+    "strike_rate": 116.26506024096386
+  },
+  { "season": 2010, "batsman": "AB Agarkar", "strike_rate": 150 },
+  { "season": 2010, "batsman": "AB Barath", "strike_rate": 104.76190476190476 },
+  {
+    "season": 2010,
+    "batsman": "AB de Villiers",
+    "strike_rate": 98.31932773109244
+  },
+  { "season": 2010, "batsman": "AB Dinda", "strike_rate": 0 },
+  {
+    "season": 2010,
+    "batsman": "AB McDonald",
+    "strike_rate": 132.69230769230768
+  },
+  {
+    "season": 2010,
+    "batsman": "AC Gilchrist",
+    "strike_rate": 167.56756756756758
+  },
+  { "season": 2010, "batsman": "AC Voges", "strike_rate": 132.86713286713288 },
+  { "season": 2010, "batsman": "AD Mascarenhas", "strike_rate": 130 },
+  {
+    "season": 2010,
+    "batsman": "AD Mathews",
+    "strike_rate": 139.34426229508196
+  },
+  { "season": 2010, "batsman": "AG Paunikar", "strike_rate": 0 },
+  { "season": 2010, "batsman": "AJ Finch", "strike_rate": 100 },
+  { "season": 2010, "batsman": "AM Nayar", "strike_rate": 123.52941176470588 },
+  { "season": 2010, "batsman": "AN Ahmed", "strike_rate": 85.71428571428571 },
+  { "season": 2010, "batsman": "Anirudh Singh", "strike_rate": 100 },
+  { "season": 2010, "batsman": "AP Dole", "strike_rate": 159.0909090909091 },
+  { "season": 2010, "batsman": "AP Tare", "strike_rate": 155.55555555555554 },
+  { "season": 2010, "batsman": "AS Raut", "strike_rate": 116.66666666666669 },
+  { "season": 2010, "batsman": "AT Rayudu", "strike_rate": 157.37704918032787 },
+  { "season": 2010, "batsman": "B Lee", "strike_rate": 144.44444444444446 },
+  { "season": 2010, "batsman": "B Sumanth", "strike_rate": 97.29729729729728 },
+  { "season": 2010, "batsman": "BAW Mendis", "strike_rate": 100 },
+  {
+    "season": 2010,
+    "batsman": "BB McCullum",
+    "strike_rate": 124.77064220183486
+  },
+  {
+    "season": 2010,
+    "batsman": "Bipul Sharma",
+    "strike_rate": 128.57142857142858
+  },
+  { "season": 2010, "batsman": "BJ Hodge", "strike_rate": 116.66666666666669 },
+  { "season": 2010, "batsman": "C Madan", "strike_rate": 122.22222222222224 },
+  { "season": 2010, "batsman": "CA Pujara", "strike_rate": 117.3913043478261 },
+  { "season": 2010, "batsman": "CH Gayle", "strike_rate": 177.04918032786884 },
+  { "season": 2010, "batsman": "CK Langeveldt", "strike_rate": 0 },
+  { "season": 2010, "batsman": "CL White", "strike_rate": 145.45454545454547 },
+  { "season": 2010, "batsman": "CRD Fernando", "strike_rate": 100 },
+  { "season": 2010, "batsman": "DA Warner", "strike_rate": 152.9100529100529 },
+  { "season": 2010, "batsman": "DE Bollinger", "strike_rate": 131.25 },
+  { "season": 2010, "batsman": "DJ Bravo", "strike_rate": 116.98113207547168 },
+  { "season": 2010, "batsman": "DJ Hussey", "strike_rate": 120 },
+  {
+    "season": 2010,
+    "batsman": "DL Vettori",
+    "strike_rate": 144.44444444444446
+  },
+  { "season": 2010, "batsman": "DP Nannes", "strike_rate": 30.76923076923077 },
+  {
+    "season": 2010,
+    "batsman": "DPMD Jayawardene",
+    "strike_rate": 156.52173913043478
+  },
+  { "season": 2010, "batsman": "DR Martyn", "strike_rate": 87.5 },
+  { "season": 2010, "batsman": "DR Smith", "strike_rate": 92 },
+  { "season": 2010, "batsman": "DW Steyn", "strike_rate": 100 },
+  { "season": 2010, "batsman": "EJG Morgan", "strike_rate": 120 },
+  { "season": 2010, "batsman": "FY Fazal", "strike_rate": 122.22222222222224 },
+  { "season": 2010, "batsman": "G Gambhir", "strike_rate": 137.78801843317973 },
+  { "season": 2010, "batsman": "GC Smith", "strike_rate": 115.3846153846154 },
+  { "season": 2010, "batsman": "GJ Bailey", "strike_rate": 81.48148148148148 },
+  {
+    "season": 2010,
+    "batsman": "Harbhajan Singh",
+    "strike_rate": 191.66666666666663
+  },
+  { "season": 2010, "batsman": "Harmeet Singh", "strike_rate": 0 },
+  { "season": 2010, "batsman": "HH Gibbs", "strike_rate": 122.22222222222224 },
+  { "season": 2010, "batsman": "I Sharma", "strike_rate": 35.294117647058826 },
+  { "season": 2010, "batsman": "IK Pathan", "strike_rate": 155.3763440860215 },
+  { "season": 2010, "batsman": "Iqbal Abdulla", "strike_rate": 100 },
+  { "season": 2010, "batsman": "J Theron", "strike_rate": 60 },
+  { "season": 2010, "batsman": "JA Morkel", "strike_rate": 160.3053435114504 },
+  {
+    "season": 2010,
+    "batsman": "Jaskaran Singh",
+    "strike_rate": 72.72727272727273
+  },
+  { "season": 2010, "batsman": "JH Kallis", "strike_rate": 125.15337423312884 },
+  { "season": 2010, "batsman": "JM Kemp", "strike_rate": 112.5 },
+  { "season": 2010, "batsman": "JP Duminy", "strike_rate": 124.42748091603052 },
+  { "season": 2010, "batsman": "K Goel", "strike_rate": 95 },
+  { "season": 2010, "batsman": "KA Pollard", "strike_rate": 194.5205479452055 },
+  { "season": 2010, "batsman": "KAJ Roach", "strike_rate": 111.11111111111111 },
+  { "season": 2010, "batsman": "KB Arun Karthik", "strike_rate": 80 },
+  { "season": 2010, "batsman": "KC Sangakkara", "strike_rate": 141.40625 },
+  {
+    "season": 2010,
+    "batsman": "KD Karthik",
+    "strike_rate": 126.69491525423727
+  },
+  { "season": 2010, "batsman": "KM Jadhav", "strike_rate": 142.85714285714286 },
+  { "season": 2010, "batsman": "KP Appanna", "strike_rate": 66.66666666666667 },
+  {
+    "season": 2010,
+    "batsman": "KP Pietersen",
+    "strike_rate": 155.4140127388535
+  },
+  { "season": 2010, "batsman": "L Balaji", "strike_rate": 90 },
+  { "season": 2010, "batsman": "LR Shukla", "strike_rate": 161.53846153846155 },
+  { "season": 2010, "batsman": "LRPL Taylor", "strike_rate": 124 },
+  { "season": 2010, "batsman": "M Kaif", "strike_rate": 96.66666666666669 },
+  { "season": 2010, "batsman": "M Kartik", "strike_rate": 100 },
+  { "season": 2010, "batsman": "M Manhas", "strike_rate": 108.7248322147651 },
+  { "season": 2010, "batsman": "M Morkel", "strike_rate": 56.25 },
+  { "season": 2010, "batsman": "M Muralitharan", "strike_rate": 50 },
+  { "season": 2010, "batsman": "M Vijay", "strike_rate": 164.72602739726028 },
+  {
+    "season": 2010,
+    "batsman": "Mandeep Singh",
+    "strike_rate": 36.36363636363637
+  },
+  { "season": 2010, "batsman": "MC Henriques", "strike_rate": 220 },
+  { "season": 2010, "batsman": "MD Mishra", "strike_rate": 128.16901408450704 },
+  { "season": 2010, "batsman": "MEK Hussey", "strike_rate": 88.63636363636364 },
+  {
+    "season": 2010,
+    "batsman": "MF Maharoof",
+    "strike_rate": 143.47826086956522
+  },
+  { "season": 2010, "batsman": "MJ Lumb", "strike_rate": 157.14285714285714 },
+  { "season": 2010, "batsman": "MK Pandey", "strike_rate": 117.33333333333331 },
+  { "season": 2010, "batsman": "MK Tiwary", "strike_rate": 136.21621621621622 },
+  { "season": 2010, "batsman": "ML Hayden", "strike_rate": 131.89964157706092 },
+  { "season": 2010, "batsman": "MM Patel", "strike_rate": 100 },
+  { "season": 2010, "batsman": "MR Marsh", "strike_rate": 103.33333333333331 },
+  { "season": 2010, "batsman": "MS Bisla", "strike_rate": 136.72316384180792 },
+  { "season": 2010, "batsman": "MS Dhoni", "strike_rate": 142.85714285714286 },
+  { "season": 2010, "batsman": "MS Gony", "strike_rate": 50 },
+  { "season": 2010, "batsman": "MV Boucher", "strike_rate": 130 },
+  { "season": 2010, "batsman": "NV Ojha", "strike_rate": 138.86925795053003 },
+  { "season": 2010, "batsman": "OA Shah", "strike_rate": 124.21052631578948 },
+  { "season": 2010, "batsman": "P Dogra", "strike_rate": 102.83018867924528 },
+  { "season": 2010, "batsman": "P Kumar", "strike_rate": 62.5 },
+  { "season": 2010, "batsman": "PA Patel", "strike_rate": 100 },
+  { "season": 2010, "batsman": "Pankaj Singh", "strike_rate": 50 },
+  {
+    "season": 2010,
+    "batsman": "PD Collingwood",
+    "strike_rate": 136.53846153846155
+  },
+  {
+    "season": 2010,
+    "batsman": "PJ Sangwan",
+    "strike_rate": 107.14285714285714
+  },
+  { "season": 2010, "batsman": "PP Chawla", "strike_rate": 113.55932203389833 },
+  { "season": 2010, "batsman": "PP Ojha", "strike_rate": 37.5 },
+  { "season": 2010, "batsman": "R Ashwin", "strike_rate": 80 },
+  { "season": 2010, "batsman": "R Bhatia", "strike_rate": 147.05882352941177 },
+  { "season": 2010, "batsman": "R Dravid", "strike_rate": 134.17085427135677 },
+  { "season": 2010, "batsman": "R McLaren", "strike_rate": 105.79710144927536 },
+  { "season": 2010, "batsman": "R Sathish", "strike_rate": 127.08333333333331 },
+  { "season": 2010, "batsman": "R Sharma", "strike_rate": 111.53846153846152 },
+  { "season": 2010, "batsman": "R Vinay Kumar", "strike_rate": 96.875 },
+  { "season": 2010, "batsman": "RE van der Merwe", "strike_rate": 50 },
+  { "season": 2010, "batsman": "RG Sharma", "strike_rate": 140.66666666666666 },
+  { "season": 2010, "batsman": "RJ Harris", "strike_rate": 115.3846153846154 },
+  { "season": 2010, "batsman": "RP Singh", "strike_rate": 63.1578947368421 },
+  { "season": 2010, "batsman": "RR Powar", "strike_rate": 62.5 },
+  { "season": 2010, "batsman": "RS Bopara", "strike_rate": 121.96261682242992 },
+  { "season": 2010, "batsman": "RS Gavaskar", "strike_rate": 25 },
+  { "season": 2010, "batsman": "RS Sodhi", "strike_rate": 200 },
+  { "season": 2010, "batsman": "RV Uthappa", "strike_rate": 179.3577981651376 },
+  {
+    "season": 2010,
+    "batsman": "S Anirudha",
+    "strike_rate": 216.66666666666663
+  },
+  {
+    "season": 2010,
+    "batsman": "S Badrinath",
+    "strike_rate": 125.24916943521596
+  },
+  { "season": 2010, "batsman": "S Dhawan", "strike_rate": 125.44378698224853 },
+  { "season": 2010, "batsman": "S Ladda", "strike_rate": 11.11111111111111 },
+  { "season": 2010, "batsman": "S Narwal", "strike_rate": 125 },
+  {
+    "season": 2010,
+    "batsman": "S Sreesanth",
+    "strike_rate": 152.38095238095238
+  },
+  { "season": 2010, "batsman": "S Sriram", "strike_rate": 120.6896551724138 },
+  { "season": 2010, "batsman": "S Tyagi", "strike_rate": 75 },
+  { "season": 2010, "batsman": "SA Asnodkar", "strike_rate": 125 },
+  {
+    "season": 2010,
+    "batsman": "SC Ganguly",
+    "strike_rate": 125.83732057416267
+  },
+  { "season": 2010, "batsman": "SE Bond", "strike_rate": 50 },
+  { "season": 2010, "batsman": "SE Marsh", "strike_rate": 139.47368421052633 },
+  { "season": 2010, "batsman": "SJ Srivastava", "strike_rate": 50 },
+  { "season": 2010, "batsman": "SK Raina", "strike_rate": 156.5934065934066 },
+  {
+    "season": 2010,
+    "batsman": "SK Trivedi",
+    "strike_rate": 164.28571428571428
+  },
+  { "season": 2010, "batsman": "SK Warne", "strike_rate": 68.42105263157895 },
+  { "season": 2010, "batsman": "SL Malinga", "strike_rate": 100 },
+  { "season": 2010, "batsman": "SP Goswami", "strike_rate": 80 },
+  {
+    "season": 2010,
+    "batsman": "SR Tendulkar",
+    "strike_rate": 143.62850971922245
+  },
+  { "season": 2010, "batsman": "SR Watson", "strike_rate": 168.141592920354 },
+  { "season": 2010, "batsman": "SS Tiwary", "strike_rate": 142.01954397394138 },
+  {
+    "season": 2010,
+    "batsman": "ST Jayasuriya",
+    "strike_rate": 129.03225806451613
+  },
+  { "season": 2010, "batsman": "STR Binny", "strike_rate": 160 },
+  { "season": 2010, "batsman": "SW Tait", "strike_rate": 92.3076923076923 },
+  { "season": 2010, "batsman": "T Thushara", "strike_rate": 90.9090909090909 },
+  { "season": 2010, "batsman": "TL Suman", "strike_rate": 125.49019607843135 },
+  { "season": 2010, "batsman": "TM Dilshan", "strike_rate": 90.56603773584904 },
+  { "season": 2010, "batsman": "UT Yadav", "strike_rate": 75 },
+  { "season": 2010, "batsman": "V Kohli", "strike_rate": 151.65876777251185 },
+  { "season": 2010, "batsman": "V Sehwag", "strike_rate": 172.8110599078341 },
+  { "season": 2010, "batsman": "VS Malik", "strike_rate": 160 },
+  {
+    "season": 2010,
+    "batsman": "VVS Laxman",
+    "strike_rate": 111.66666666666669
+  },
+  { "season": 2010, "batsman": "WP Saha", "strike_rate": 132.0754716981132 },
+  { "season": 2010, "batsman": "WPUJC Vaas", "strike_rate": 91.17647058823528 },
+  { "season": 2010, "batsman": "Y Nagar", "strike_rate": 66.66666666666667 },
+  {
+    "season": 2010,
+    "batsman": "Y Venugopal Rao",
+    "strike_rate": 81.3953488372093
+  },
+  { "season": 2010, "batsman": "YA Abdulla", "strike_rate": 100 },
+  { "season": 2010, "batsman": "YK Pathan", "strike_rate": 171.5 },
+  { "season": 2010, "batsman": "Yuvraj Singh", "strike_rate": 136 },
+  { "season": 2010, "batsman": "Z Khan", "strike_rate": 184.6153846153846 },
+  { "season": 2011, "batsman": "A Mishra", "strike_rate": 153.0612244897959 },
+  { "season": 2011, "batsman": "A Mithun", "strike_rate": 150 },
+  { "season": 2011, "batsman": "A Singh", "strike_rate": 25 },
+  { "season": 2011, "batsman": "A Symonds", "strike_rate": 104.34782608695652 },
+  { "season": 2011, "batsman": "AA Chavan", "strike_rate": 33.333333333333336 },
+  { "season": 2011, "batsman": "AA Jhunjhunwala", "strike_rate": 100 },
+  { "season": 2011, "batsman": "AB Agarkar", "strike_rate": 200 },
+  {
+    "season": 2011,
+    "batsman": "AB de Villiers",
+    "strike_rate": 135.53719008264463
+  },
+  { "season": 2011, "batsman": "AB Dinda", "strike_rate": 0 },
+  {
+    "season": 2011,
+    "batsman": "AB McDonald",
+    "strike_rate": 114.28571428571428
+  },
+  {
+    "season": 2011,
+    "batsman": "AC Blizzard",
+    "strike_rate": 144.82758620689654
+  },
+  {
+    "season": 2011,
+    "batsman": "AC Gilchrist",
+    "strike_rate": 149.82817869415808
+  },
+  { "season": 2011, "batsman": "AC Thomas", "strike_rate": 25 },
+  { "season": 2011, "batsman": "AG Murtaza", "strike_rate": 40 },
+  {
+    "season": 2011,
+    "batsman": "AG Paunikar",
+    "strike_rate": 103.70370370370372
+  },
+  { "season": 2011, "batsman": "AJ Finch", "strike_rate": 115.21739130434784 },
+  {
+    "season": 2011,
+    "batsman": "AL Menaria",
+    "strike_rate": 123.02631578947368
+  },
+  { "season": 2011, "batsman": "AM Nayar", "strike_rate": 104.54545454545456 },
+  { "season": 2011, "batsman": "AM Rahane", "strike_rate": 123.46938775510203 },
+  { "season": 2011, "batsman": "AN Ahmed", "strike_rate": 138.46153846153845 },
+  { "season": 2011, "batsman": "AS Raut", "strike_rate": 112.06896551724138 },
+  { "season": 2011, "batsman": "AT Rayudu", "strike_rate": 117.47851002865328 },
+  { "season": 2011, "batsman": "AUK Pathan", "strike_rate": 218.75 },
+  { "season": 2011, "batsman": "B Akhil", "strike_rate": 144.44444444444446 },
+  { "season": 2011, "batsman": "B Chipli", "strike_rate": 124.11764705882354 },
+  { "season": 2011, "batsman": "B Kumar", "strike_rate": 100 },
+  { "season": 2011, "batsman": "B Lee", "strike_rate": 55.55555555555556 },
+  { "season": 2011, "batsman": "BA Bhatt", "strike_rate": 0 },
+  {
+    "season": 2011,
+    "batsman": "BB McCullum",
+    "strike_rate": 146.3235294117647
+  },
+  {
+    "season": 2011,
+    "batsman": "Bipul Sharma",
+    "strike_rate": 127.77777777777776
+  },
+  { "season": 2011, "batsman": "BJ Haddin", "strike_rate": 163.63636363636363 },
+  { "season": 2011, "batsman": "BJ Hodge", "strike_rate": 131.6239316239316 },
+  { "season": 2011, "batsman": "CA Ingram", "strike_rate": 108 },
+  { "season": 2011, "batsman": "CA Pujara", "strike_rate": 116.12903225806453 },
+  { "season": 2011, "batsman": "CH Gayle", "strike_rate": 192.74924471299093 },
+  { "season": 2011, "batsman": "CJ Ferguson", "strike_rate": 92.5925925925926 },
+  { "season": 2011, "batsman": "CK Langeveldt", "strike_rate": 100 },
+  { "season": 2011, "batsman": "CL White", "strike_rate": 96.3302752293578 },
+  { "season": 2011, "batsman": "DA Warner", "strike_rate": 125.0909090909091 },
+  {
+    "season": 2011,
+    "batsman": "DB Ravi Teja",
+    "strike_rate": 133.56643356643357
+  },
+  { "season": 2011, "batsman": "DE Bollinger", "strike_rate": 0 },
+  { "season": 2011, "batsman": "DH Yagnik", "strike_rate": 95.23809523809524 },
+  { "season": 2011, "batsman": "DJ Bravo", "strike_rate": 183.33333333333331 },
+  { "season": 2011, "batsman": "DJ Hussey", "strike_rate": 111.11111111111111 },
+  { "season": 2011, "batsman": "DJ Jacobs", "strike_rate": 114.77272727272728 },
+  {
+    "season": 2011,
+    "batsman": "DL Vettori",
+    "strike_rate": 110.71428571428572
+  },
+  {
+    "season": 2011,
+    "batsman": "DPMD Jayawardene",
+    "strike_rate": 128.01556420233464
+  },
+  { "season": 2011, "batsman": "DS Kulkarni", "strike_rate": 50 },
+  {
+    "season": 2011,
+    "batsman": "DT Christian",
+    "strike_rate": 124.8407643312102
+  },
+  { "season": 2011, "batsman": "DW Steyn", "strike_rate": 120 },
+  {
+    "season": 2011,
+    "batsman": "EJG Morgan",
+    "strike_rate": 127.35042735042737
+  },
+  { "season": 2011, "batsman": "FY Fazal", "strike_rate": 105.26315789473684 },
+  { "season": 2011, "batsman": "G Gambhir", "strike_rate": 131.21019108280254 },
+  { "season": 2011, "batsman": "GC Smith", "strike_rate": 88.23529411764706 },
+  {
+    "season": 2011,
+    "batsman": "Harbhajan Singh",
+    "strike_rate": 156.33802816901408
+  },
+  { "season": 2011, "batsman": "Harpreet Singh", "strike_rate": 70 },
+  { "season": 2011, "batsman": "I Malhotra", "strike_rate": 175 },
+  { "season": 2011, "batsman": "I Sharma", "strike_rate": 80 },
+  { "season": 2011, "batsman": "IK Pathan", "strike_rate": 123.35766423357664 },
+  { "season": 2011, "batsman": "Iqbal Abdulla", "strike_rate": 125 },
+  { "season": 2011, "batsman": "IR Jaggi", "strike_rate": 86.48648648648648 },
+  { "season": 2011, "batsman": "J Botha", "strike_rate": 119.1919191919192 },
+  {
+    "season": 2011,
+    "batsman": "J Syed Mohammad",
+    "strike_rate": 133.33333333333334
+  },
+  { "season": 2011, "batsman": "JA Morkel", "strike_rate": 148 },
+  { "season": 2011, "batsman": "JD Ryder", "strike_rate": 155.6122448979592 },
+  { "season": 2011, "batsman": "JDP Oram", "strike_rate": 0 },
+  { "season": 2011, "batsman": "JE Taylor", "strike_rate": 133.33333333333334 },
+  {
+    "season": 2011,
+    "batsman": "JEC Franklin",
+    "strike_rate": 142.30769230769232
+  },
+  { "season": 2011, "batsman": "JH Kallis", "strike_rate": 117.989417989418 },
+  { "season": 2011, "batsman": "JJ van der Wath", "strike_rate": 118.75 },
+  { "season": 2011, "batsman": "Joginder Sharma", "strike_rate": 0 },
+  { "season": 2011, "batsman": "JP Duminy", "strike_rate": 121.38728323699422 },
+  { "season": 2011, "batsman": "JR Hopes", "strike_rate": 129.93630573248407 },
+  {
+    "season": 2011,
+    "batsman": "KA Pollard",
+    "strike_rate": 124.24242424242424
+  },
+  { "season": 2011, "batsman": "KB Arun Karthik", "strike_rate": 137.5 },
+  {
+    "season": 2011,
+    "batsman": "KC Sangakkara",
+    "strike_rate": 128.8659793814433
+  },
+  { "season": 2011, "batsman": "KD Karthik", "strike_rate": 133.1818181818182 },
+  { "season": 2011, "batsman": "KM Jadhav", "strike_rate": 78.26086956521739 },
+  { "season": 2011, "batsman": "L Ablish", "strike_rate": 0 },
+  { "season": 2011, "batsman": "L Balaji", "strike_rate": 200 },
+  {
+    "season": 2011,
+    "batsman": "LA Pomersbach",
+    "strike_rate": 138.46153846153845
+  },
+  { "season": 2011, "batsman": "LR Shukla", "strike_rate": 140 },
+  {
+    "season": 2011,
+    "batsman": "LRPL Taylor",
+    "strike_rate": 135.33333333333334
+  },
+  { "season": 2011, "batsman": "M Kaif", "strike_rate": 130.3030303030303 },
+  { "season": 2011, "batsman": "M Kartik", "strike_rate": 100 },
+  { "season": 2011, "batsman": "M Klinger", "strike_rate": 102.66666666666669 },
+  { "season": 2011, "batsman": "M Manhas", "strike_rate": 97.5609756097561 },
+  { "season": 2011, "batsman": "M Morkel", "strike_rate": 170.83333333333334 },
+  { "season": 2011, "batsman": "M Muralitharan", "strike_rate": 100 },
+  { "season": 2011, "batsman": "M Vijay", "strike_rate": 131.858407079646 },
+  {
+    "season": 2011,
+    "batsman": "MA Agarwal",
+    "strike_rate": 136.75213675213675
+  },
+  {
+    "season": 2011,
+    "batsman": "Mandeep Singh",
+    "strike_rate": 117.07317073170732
+  },
+  { "season": 2011, "batsman": "MD Mishra", "strike_rate": 113.33333333333331 },
+  {
+    "season": 2011,
+    "batsman": "MEK Hussey",
+    "strike_rate": 125.66585956416463
+  },
+  { "season": 2011, "batsman": "MJ Lumb", "strike_rate": 0 },
+  { "season": 2011, "batsman": "MK Pandey", "strike_rate": 114.53744493392072 },
+  { "season": 2011, "batsman": "MK Tiwary", "strike_rate": 117.0807453416149 },
+  { "season": 2011, "batsman": "MM Patel", "strike_rate": 0 },
+  { "season": 2011, "batsman": "MR Marsh", "strike_rate": 104.08163265306122 },
+  { "season": 2011, "batsman": "MS Bisla", "strike_rate": 91.01123595505618 },
+  { "season": 2011, "batsman": "MS Dhoni", "strike_rate": 162.0408163265306 },
+  { "season": 2011, "batsman": "MS Gony", "strike_rate": 50 },
+  { "season": 2011, "batsman": "MS Wade", "strike_rate": 69.6969696969697 },
+  {
+    "season": 2011,
+    "batsman": "MV Boucher",
+    "strike_rate": 166.66666666666666
+  },
+  { "season": 2011, "batsman": "ND Doshi", "strike_rate": 0 },
+  { "season": 2011, "batsman": "NJ Rimmington", "strike_rate": 100 },
+  {
+    "season": 2011,
+    "batsman": "NL McCullum",
+    "strike_rate": 127.27272727272728
+  },
+  { "season": 2011, "batsman": "NLTC Perera", "strike_rate": 92.5925925925926 },
+  { "season": 2011, "batsman": "NV Ojha", "strike_rate": 107.45341614906832 },
+  { "season": 2011, "batsman": "OA Shah", "strike_rate": 186.66666666666663 },
+  { "season": 2011, "batsman": "P Kumar", "strike_rate": 96.7741935483871 },
+  { "season": 2011, "batsman": "P Parameswaran", "strike_rate": 100 },
+  { "season": 2011, "batsman": "PA Patel", "strike_rate": 115.3846153846154 },
+  {
+    "season": 2011,
+    "batsman": "PC Valthaty",
+    "strike_rate": 147.00598802395209
+  },
+  { "season": 2011, "batsman": "PP Chawla", "strike_rate": 90.9090909090909 },
+  { "season": 2011, "batsman": "PR Shah", "strike_rate": 100 },
+  { "season": 2011, "batsman": "R Ashwin", "strike_rate": 33.333333333333336 },
+  { "season": 2011, "batsman": "R Bhatia", "strike_rate": 127.27272727272728 },
+  { "season": 2011, "batsman": "R Dravid", "strike_rate": 117.62820512820512 },
+  { "season": 2011, "batsman": "R McLaren", "strike_rate": 100 },
+  { "season": 2011, "batsman": "R Ninan", "strike_rate": 80 },
+  { "season": 2011, "batsman": "R Sathish", "strike_rate": 79.41176470588235 },
+  { "season": 2011, "batsman": "R Sharma", "strike_rate": 123.8095238095238 },
+  {
+    "season": 2011,
+    "batsman": "R Vinay Kumar",
+    "strike_rate": 108.51063829787236
+  },
+  { "season": 2011, "batsman": "RA Jadeja", "strike_rate": 129.07488986784142 },
+  { "season": 2011, "batsman": "RE van der Merwe", "strike_rate": 87.5 },
+  { "season": 2011, "batsman": "RG Sharma", "strike_rate": 128.6195286195286 },
+  { "season": 2011, "batsman": "RJ Harris", "strike_rate": 84.21052631578948 },
+  {
+    "season": 2011,
+    "batsman": "RN ten Doeschate",
+    "strike_rate": 152.05479452054794
+  },
+  { "season": 2011, "batsman": "RP Singh", "strike_rate": 75 },
+  { "season": 2011, "batsman": "RR Powar", "strike_rate": 84.61538461538461 },
+  { "season": 2011, "batsman": "RV Gomez", "strike_rate": 112 },
+  {
+    "season": 2011,
+    "batsman": "RV Uthappa",
+    "strike_rate": 139.02439024390245
+  },
+  {
+    "season": 2011,
+    "batsman": "S Anirudha",
+    "strike_rate": 121.62162162162164
+  },
+  { "season": 2011, "batsman": "S Aravind", "strike_rate": 187.5 },
+  {
+    "season": 2011,
+    "batsman": "S Badrinath",
+    "strike_rate": 131.73076923076923
+  },
+  { "season": 2011, "batsman": "S Dhawan", "strike_rate": 136.24595469255664 },
+  { "season": 2011, "batsman": "S Nadeem", "strike_rate": 0 },
+  { "season": 2011, "batsman": "S Rana", "strike_rate": 133.33333333333334 },
+  { "season": 2011, "batsman": "S Randiv", "strike_rate": 50 },
+  { "season": 2011, "batsman": "S Sohal", "strike_rate": 142.10526315789474 },
+  {
+    "season": 2011,
+    "batsman": "S Sreesanth",
+    "strike_rate": 22.22222222222222
+  },
+  { "season": 2011, "batsman": "S Sriram", "strike_rate": 57.142857142857146 },
+  { "season": 2011, "batsman": "SA Asnodkar", "strike_rate": 100 },
+  { "season": 2011, "batsman": "SB Styris", "strike_rate": 250 },
+  { "season": 2011, "batsman": "SB Wagh", "strike_rate": 66.66666666666667 },
+  { "season": 2011, "batsman": "SC Ganguly", "strike_rate": 94.82758620689656 },
+  { "season": 2011, "batsman": "SD Chitnis", "strike_rate": 100 },
+  { "season": 2011, "batsman": "SE Marsh", "strike_rate": 153.93586005830903 },
+  {
+    "season": 2011,
+    "batsman": "Shakib Al Hasan",
+    "strike_rate": 140.9090909090909
+  },
+  {
+    "season": 2011,
+    "batsman": "SJ Srivastava",
+    "strike_rate": 133.33333333333334
+  },
+  { "season": 2011, "batsman": "SK Raina", "strike_rate": 139.62848297213625 },
+  { "season": 2011, "batsman": "SK Trivedi", "strike_rate": 0 },
+  { "season": 2011, "batsman": "SK Warne", "strike_rate": 50 },
+  { "season": 2011, "batsman": "SL Malinga", "strike_rate": 88.88888888888889 },
+  {
+    "season": 2011,
+    "batsman": "SP Goswami",
+    "strike_rate": 106.89655172413794
+  },
+  {
+    "season": 2011,
+    "batsman": "SR Tendulkar",
+    "strike_rate": 125.61475409836063
+  },
+  { "season": 2011, "batsman": "SR Watson", "strike_rate": 134.52380952380952 },
+  { "season": 2011, "batsman": "SS Tiwary", "strike_rate": 106.4516129032258 },
+  { "season": 2011, "batsman": "STR Binny", "strike_rate": 119.35483870967742 },
+  {
+    "season": 2011,
+    "batsman": "Sunny Singh",
+    "strike_rate": 141.93548387096774
+  },
+  { "season": 2011, "batsman": "SW Tait", "strike_rate": 100 },
+  { "season": 2011, "batsman": "TD Paine", "strike_rate": 57.69230769230769 },
+  { "season": 2011, "batsman": "TL Suman", "strike_rate": 135.2941176470588 },
+  {
+    "season": 2011,
+    "batsman": "TM Dilshan",
+    "strike_rate": 132.22222222222223
+  },
+  { "season": 2011, "batsman": "TR Birt", "strike_rate": 138.59649122807016 },
+  { "season": 2011, "batsman": "UBT Chand", "strike_rate": 25 },
+  { "season": 2011, "batsman": "UT Yadav", "strike_rate": 40 },
+  { "season": 2011, "batsman": "V Kohli", "strike_rate": 127.23311546840958 },
+  { "season": 2011, "batsman": "V Sehwag", "strike_rate": 185.35564853556485 },
+  { "season": 2011, "batsman": "VR Aaron", "strike_rate": 0 },
+  {
+    "season": 2011,
+    "batsman": "VVS Laxman",
+    "strike_rate": 124.39024390243902
+  },
+  {
+    "season": 2011,
+    "batsman": "WD Parnell",
+    "strike_rate": 105.12820512820512
+  },
+  { "season": 2011, "batsman": "WP Saha", "strike_rate": 122.22222222222224 },
+  {
+    "season": 2011,
+    "batsman": "Y Gnaneswara Rao",
+    "strike_rate": 117.6470588235294
+  },
+  { "season": 2011, "batsman": "Y Nagar", "strike_rate": 126 },
+  {
+    "season": 2011,
+    "batsman": "Y Venugopal Rao",
+    "strike_rate": 130.46594982078852
+  },
+  { "season": 2011, "batsman": "YK Pathan", "strike_rate": 145.5 },
+  {
+    "season": 2011,
+    "batsman": "Yuvraj Singh",
+    "strike_rate": 135.24904214559388
+  },
+  { "season": 2011, "batsman": "Z Khan", "strike_rate": 87.5 },
+  {
+    "season": 2012,
+    "batsman": "A Ashish Reddy",
+    "strike_rate": 137.93103448275863
+  },
+  { "season": 2012, "batsman": "A Chandila", "strike_rate": 0 },
+  { "season": 2012, "batsman": "A Mishra", "strike_rate": 85 },
+  { "season": 2012, "batsman": "A Nehra", "strike_rate": 108.33333333333331 },
+  { "season": 2012, "batsman": "A Singh", "strike_rate": 50 },
+  { "season": 2012, "batsman": "AA Chavan", "strike_rate": 137.5 },
+  {
+    "season": 2012,
+    "batsman": "AA Jhunjhunwala",
+    "strike_rate": 96.15384615384616
+  },
+  {
+    "season": 2012,
+    "batsman": "AB de Villiers",
+    "strike_rate": 168.0203045685279
+  },
+  { "season": 2012, "batsman": "AB Dinda", "strike_rate": 60 },
+  {
+    "season": 2012,
+    "batsman": "AB McDonald",
+    "strike_rate": 142.85714285714286
+  },
+  { "season": 2012, "batsman": "AC Blizzard", "strike_rate": 0 },
+  {
+    "season": 2012,
+    "batsman": "AC Gilchrist",
+    "strike_rate": 129.5774647887324
+  },
+  { "season": 2012, "batsman": "AC Thomas", "strike_rate": 126.66666666666669 },
+  { "season": 2012, "batsman": "AD Mascarenhas", "strike_rate": 87.5 },
+  {
+    "season": 2012,
+    "batsman": "AD Mathews",
+    "strike_rate": 124.07407407407408
+  },
+  {
+    "season": 2012,
+    "batsman": "AD Russell",
+    "strike_rate": 188.46153846153845
+  },
+  { "season": 2012, "batsman": "AG Murtaza", "strike_rate": 60 },
+  { "season": 2012, "batsman": "AJ Finch", "strike_rate": 113.72549019607844 },
+  { "season": 2012, "batsman": "AL Menaria", "strike_rate": 114 },
+  { "season": 2012, "batsman": "AM Nayar", "strike_rate": 104.08163265306122 },
+  { "season": 2012, "batsman": "AM Rahane", "strike_rate": 135.56581986143186 },
+  {
+    "season": 2012,
+    "batsman": "Ankit Sharma",
+    "strike_rate": 138.46153846153845
+  },
+  {
+    "season": 2012,
+    "batsman": "AP Majumdar",
+    "strike_rate": 118.42105263157896
+  },
+  { "season": 2012, "batsman": "AT Rayudu", "strike_rate": 137.6984126984127 },
+  { "season": 2012, "batsman": "AUK Pathan", "strike_rate": 100 },
+  {
+    "season": 2012,
+    "batsman": "Azhar Mahmood",
+    "strike_rate": 135.2112676056338
+  },
+  { "season": 2012, "batsman": "B Chipli", "strike_rate": 105.71428571428572 },
+  { "season": 2012, "batsman": "B Kumar", "strike_rate": 105 },
+  { "season": 2012, "batsman": "B Lee", "strike_rate": 215 },
+  { "season": 2012, "batsman": "BA Bhatt", "strike_rate": 300 },
+  {
+    "season": 2012,
+    "batsman": "BB McCullum",
+    "strike_rate": 107.42049469964664
+  },
+  { "season": 2012, "batsman": "BB Samantray", "strike_rate": 100 },
+  {
+    "season": 2012,
+    "batsman": "Bipul Sharma",
+    "strike_rate": 153.19148936170214
+  },
+  { "season": 2012, "batsman": "BJ Hodge", "strike_rate": 146.82080924855492 },
+  { "season": 2012, "batsman": "CA Lynn", "strike_rate": 77.77777777777777 },
+  { "season": 2012, "batsman": "CA Pujara", "strike_rate": 81.81818181818181 },
+  { "season": 2012, "batsman": "CH Gayle", "strike_rate": 168.9578713968958 },
+  {
+    "season": 2012,
+    "batsman": "CJ Ferguson",
+    "strike_rate": 80.95238095238095
+  },
+  { "season": 2012, "batsman": "CJ McKay", "strike_rate": 53.333333333333336 },
+  { "season": 2012, "batsman": "CL White", "strike_rate": 154.2319749216301 },
+  { "season": 2012, "batsman": "DA Miller", "strike_rate": 137.33333333333334 },
+  { "season": 2012, "batsman": "DA Warner", "strike_rate": 181.93548387096772 },
+  {
+    "season": 2012,
+    "batsman": "DAJ Bracewell",
+    "strike_rate": 133.33333333333334
+  },
+  { "season": 2012, "batsman": "DB Das", "strike_rate": 144.56521739130434 },
+  { "season": 2012, "batsman": "DB Ravi Teja", "strike_rate": 100 },
+  { "season": 2012, "batsman": "DE Bollinger", "strike_rate": 60 },
+  { "season": 2012, "batsman": "DH Yagnik", "strike_rate": 200 },
+  { "season": 2012, "batsman": "DJ Bravo", "strike_rate": 147.70992366412213 },
+  { "season": 2012, "batsman": "DJ Harris", "strike_rate": 117.82178217821782 },
+  { "season": 2012, "batsman": "DJ Hussey", "strike_rate": 136.39344262295083 },
+  { "season": 2012, "batsman": "DJ Jacobs", "strike_rate": 10 },
+  {
+    "season": 2012,
+    "batsman": "DL Vettori",
+    "strike_rate": 130.76923076923077
+  },
+  {
+    "season": 2012,
+    "batsman": "DPMD Jayawardene",
+    "strike_rate": 119.12751677852349
+  },
+  { "season": 2012, "batsman": "DR Smith", "strike_rate": 171.1340206185567 },
+  { "season": 2012, "batsman": "DS Kulkarni", "strike_rate": 200 },
+  {
+    "season": 2012,
+    "batsman": "DT Christian",
+    "strike_rate": 128.8135593220339
+  },
+  { "season": 2012, "batsman": "DW Steyn", "strike_rate": 90.47619047619048 },
+  {
+    "season": 2012,
+    "batsman": "F du Plessis",
+    "strike_rate": 134.32343234323432
+  },
+  { "season": 2012, "batsman": "G Gambhir", "strike_rate": 150.12165450121654 },
+  { "season": 2012, "batsman": "GB Hogg", "strike_rate": 93.75 },
+  { "season": 2012, "batsman": "GJ Maxwell", "strike_rate": 72.72727272727273 },
+  {
+    "season": 2012,
+    "batsman": "Gurkeerat Singh",
+    "strike_rate": 178.84615384615384
+  },
+  { "season": 2012, "batsman": "Harbhajan Singh", "strike_rate": 140 },
+  {
+    "season": 2012,
+    "batsman": "Harmeet Singh",
+    "strike_rate": 214.28571428571428
+  },
+  { "season": 2012, "batsman": "Harpreet Singh", "strike_rate": 100 },
+  { "season": 2012, "batsman": "HH Gibbs", "strike_rate": 97.72727272727272 },
+  { "season": 2012, "batsman": "HV Patel", "strike_rate": 113.33333333333331 },
+  { "season": 2012, "batsman": "IK Pathan", "strike_rate": 150 },
+  {
+    "season": 2012,
+    "batsman": "Iqbal Abdulla",
+    "strike_rate": 66.66666666666667
+  },
+  { "season": 2012, "batsman": "IR Jaggi", "strike_rate": 76.19047619047619 },
+  { "season": 2012, "batsman": "J Botha", "strike_rate": 111.11111111111111 },
+  { "season": 2012, "batsman": "J Syed Mohammad", "strike_rate": 400 },
+  { "season": 2012, "batsman": "J Theron", "strike_rate": 116.66666666666669 },
+  { "season": 2012, "batsman": "JA Morkel", "strike_rate": 167.64705882352942 },
+  { "season": 2012, "batsman": "JD Ryder", "strike_rate": 127.01421800947868 },
+  {
+    "season": 2012,
+    "batsman": "JEC Franklin",
+    "strike_rate": 104.05405405405403
+  },
+  { "season": 2012, "batsman": "JH Kallis", "strike_rate": 112.30366492146597 },
+  { "season": 2012, "batsman": "JP Duminy", "strike_rate": 135.26315789473685 },
+  {
+    "season": 2012,
+    "batsman": "JP Faulkner",
+    "strike_rate": 115.3846153846154
+  },
+  { "season": 2012, "batsman": "K Upadhyay", "strike_rate": 137.5 },
+  {
+    "season": 2012,
+    "batsman": "KA Pollard",
+    "strike_rate": 146.83544303797467
+  },
+  {
+    "season": 2012,
+    "batsman": "KC Sangakkara",
+    "strike_rate": 122.40437158469943
+  },
+  {
+    "season": 2012,
+    "batsman": "KD Karthik",
+    "strike_rate": 116.98113207547168
+  },
+  { "season": 2012, "batsman": "KK Cooper", "strike_rate": 205.26315789473685 },
+  { "season": 2012, "batsman": "KMDN Kulasekara", "strike_rate": 200 },
+  {
+    "season": 2012,
+    "batsman": "KP Pietersen",
+    "strike_rate": 149.2753623188406
+  },
+  { "season": 2012, "batsman": "LR Shukla", "strike_rate": 131.57894736842104 },
+  {
+    "season": 2012,
+    "batsman": "LRPL Taylor",
+    "strike_rate": 121.6374269005848
+  },
+  { "season": 2012, "batsman": "M Kaif", "strike_rate": 87.5 },
+  { "season": 2012, "batsman": "M Kartik", "strike_rate": 123.8095238095238 },
+  { "season": 2012, "batsman": "M Manhas", "strike_rate": 132.29166666666666 },
+  { "season": 2012, "batsman": "M Morkel", "strike_rate": 60 },
+  {
+    "season": 2012,
+    "batsman": "M Muralitharan",
+    "strike_rate": 66.66666666666667
+  },
+  { "season": 2012, "batsman": "M Vijay", "strike_rate": 131.32075471698113 },
+  {
+    "season": 2012,
+    "batsman": "MA Agarwal",
+    "strike_rate": 149.04458598726114
+  },
+  {
+    "season": 2012,
+    "batsman": "Mandeep Singh",
+    "strike_rate": 131.6715542521994
+  },
+  { "season": 2012, "batsman": "MD Mishra", "strike_rate": 100 },
+  {
+    "season": 2012,
+    "batsman": "MEK Hussey",
+    "strike_rate": 115.67796610169492
+  },
+  { "season": 2012, "batsman": "MJ Clarke", "strike_rate": 110.63829787234044 },
+  { "season": 2012, "batsman": "MK Pandey", "strike_rate": 139.0909090909091 },
+  { "season": 2012, "batsman": "MK Tiwary", "strike_rate": 110.5691056910569 },
+  { "season": 2012, "batsman": "MM Patel", "strike_rate": 28.571428571428573 },
+  { "season": 2012, "batsman": "MN Samuels", "strike_rate": 110.5691056910569 },
+  { "season": 2012, "batsman": "MS Bisla", "strike_rate": 146.25 },
+  { "season": 2012, "batsman": "MS Dhoni", "strike_rate": 134.9090909090909 },
+  { "season": 2012, "batsman": "MS Gony", "strike_rate": 50 },
+  { "season": 2012, "batsman": "N Saini", "strike_rate": 103.57142857142856 },
+  {
+    "season": 2012,
+    "batsman": "NLTC Perera",
+    "strike_rate": 77.77777777777777
+  },
+  { "season": 2012, "batsman": "NV Ojha", "strike_rate": 122.86995515695068 },
+  { "season": 2012, "batsman": "OA Shah", "strike_rate": 148.23529411764707 },
+  { "season": 2012, "batsman": "P Awana", "strike_rate": 80 },
+  { "season": 2012, "batsman": "P Dogra", "strike_rate": 66.66666666666667 },
+  { "season": 2012, "batsman": "P Kumar", "strike_rate": 131.0344827586207 },
+  { "season": 2012, "batsman": "P Negi", "strike_rate": 127.58620689655172 },
+  { "season": 2012, "batsman": "P Parameswaran", "strike_rate": 100 },
+  { "season": 2012, "batsman": "PA Patel", "strike_rate": 129.26829268292684 },
+  { "season": 2012, "batsman": "PA Reddy", "strike_rate": 130.5084745762712 },
+  {
+    "season": 2012,
+    "batsman": "PC Valthaty",
+    "strike_rate": 62.74509803921568
+  },
+  { "season": 2012, "batsman": "PP Chawla", "strike_rate": 121.5909090909091 },
+  { "season": 2012, "batsman": "PP Ojha", "strike_rate": 46.15384615384615 },
+  { "season": 2012, "batsman": "R Ashwin", "strike_rate": 126.66666666666669 },
+  { "season": 2012, "batsman": "R Bhatia", "strike_rate": 132.14285714285714 },
+  { "season": 2012, "batsman": "R Dravid", "strike_rate": 116.99029126213593 },
+  { "season": 2012, "batsman": "R Sharma", "strike_rate": 36.36363636363637 },
+  {
+    "season": 2012,
+    "batsman": "R Vinay Kumar",
+    "strike_rate": 117.74193548387096
+  },
+  { "season": 2012, "batsman": "RA Jadeja", "strike_rate": 131.12582781456953 },
+  { "season": 2012, "batsman": "RE Levi", "strike_rate": 121.91780821917808 },
+  { "season": 2012, "batsman": "RG Sharma", "strike_rate": 131.3782991202346 },
+  { "season": 2012, "batsman": "RJ Harris", "strike_rate": 163.63636363636363 },
+  {
+    "season": 2012,
+    "batsman": "RJ Peterson",
+    "strike_rate": 123.33333333333331
+  },
+  {
+    "season": 2012,
+    "batsman": "RN ten Doeschate",
+    "strike_rate": 104.76190476190476
+  },
+  { "season": 2012, "batsman": "RP Singh", "strike_rate": 50 },
+  { "season": 2012, "batsman": "RR Bhatkal", "strike_rate": 0 },
+  {
+    "season": 2012,
+    "batsman": "RV Uthappa",
+    "strike_rate": 124.85380116959064
+  },
+  { "season": 2012, "batsman": "S Anirudha", "strike_rate": 433.3333333333333 },
+  { "season": 2012, "batsman": "S Aravind", "strike_rate": 175 },
+  { "season": 2012, "batsman": "S Badrinath", "strike_rate": 112.707182320442 },
+  { "season": 2012, "batsman": "S Dhawan", "strike_rate": 133.10502283105023 },
+  { "season": 2012, "batsman": "S Nadeem", "strike_rate": 0 },
+  { "season": 2012, "batsman": "SA Yadav", "strike_rate": 0 },
+  { "season": 2012, "batsman": "SB Jakati", "strike_rate": 58.333333333333336 },
+  { "season": 2012, "batsman": "SC Ganguly", "strike_rate": 109.5940959409594 },
+  {
+    "season": 2012,
+    "batsman": "SD Chitnis",
+    "strike_rate": 111.29032258064515
+  },
+  { "season": 2012, "batsman": "SE Marsh", "strike_rate": 125.35714285714286 },
+  {
+    "season": 2012,
+    "batsman": "Shakib Al Hasan",
+    "strike_rate": 147.94520547945206
+  },
+  { "season": 2012, "batsman": "SK Raina", "strike_rate": 141.97530864197532 },
+  { "season": 2012, "batsman": "SK Trivedi", "strike_rate": 83.33333333333333 },
+  {
+    "season": 2012,
+    "batsman": "SL Malinga",
+    "strike_rate": 111.32075471698111
+  },
+  {
+    "season": 2012,
+    "batsman": "SP Goswami",
+    "strike_rate": 107.46268656716418
+  },
+  { "season": 2012, "batsman": "SP Narine", "strike_rate": 142.85714285714286 },
+  { "season": 2012, "batsman": "SPD Smith", "strike_rate": 143.89312977099237 },
+  {
+    "season": 2012,
+    "batsman": "SR Tendulkar",
+    "strike_rate": 124.02826855123676
+  },
+  { "season": 2012, "batsman": "SR Watson", "strike_rate": 157.14285714285714 },
+  { "season": 2012, "batsman": "SS Tiwary", "strike_rate": 119.16167664670658 },
+  { "season": 2012, "batsman": "STR Binny", "strike_rate": 140.29850746268656 },
+  { "season": 2012, "batsman": "Sunny Gupta", "strike_rate": 0 },
+  { "season": 2012, "batsman": "TL Suman", "strike_rate": 84.21052631578948 },
+  {
+    "season": 2012,
+    "batsman": "TM Dilshan",
+    "strike_rate": 123.93822393822394
+  },
+  { "season": 2012, "batsman": "UBT Chand", "strike_rate": 108.82352941176472 },
+  { "season": 2012, "batsman": "UT Yadav", "strike_rate": 28.571428571428573 },
+  { "season": 2012, "batsman": "V Kohli", "strike_rate": 115.3846153846154 },
+  { "season": 2012, "batsman": "V Pratap Singh", "strike_rate": 0 },
+  { "season": 2012, "batsman": "V Sehwag", "strike_rate": 171.3355048859935 },
+  { "season": 2012, "batsman": "VR Aaron", "strike_rate": 33.333333333333336 },
+  { "season": 2012, "batsman": "WD Parnell", "strike_rate": 96.29629629629628 },
+  { "season": 2012, "batsman": "WP Saha", "strike_rate": 57.142857142857146 },
+  { "season": 2012, "batsman": "Y Nagar", "strike_rate": 118.04511278195488 },
+  {
+    "season": 2012,
+    "batsman": "Y Venugopal Rao",
+    "strike_rate": 109.52380952380952
+  },
+  { "season": 2012, "batsman": "YK Pathan", "strike_rate": 131.32530120481928 },
+  { "season": 2012, "batsman": "Z Khan", "strike_rate": 70.58823529411765 },
+  {
+    "season": 2013,
+    "batsman": "A Ashish Reddy",
+    "strike_rate": 141.57303370786516
+  },
+  { "season": 2013, "batsman": "A Chandila", "strike_rate": 66.66666666666667 },
+  { "season": 2013, "batsman": "A Mishra", "strike_rate": 102.10526315789474 },
+  { "season": 2013, "batsman": "A Mithun", "strike_rate": 100 },
+  { "season": 2013, "batsman": "A Mukund", "strike_rate": 95.23809523809524 },
+  { "season": 2013, "batsman": "A Nehra", "strike_rate": 12.5 },
+  { "season": 2013, "batsman": "AB Agarkar", "strike_rate": 75 },
+  {
+    "season": 2013,
+    "batsman": "AB de Villiers",
+    "strike_rate": 169.95515695067266
+  },
+  { "season": 2013, "batsman": "AB Dinda", "strike_rate": 81.81818181818181 },
+  { "season": 2013, "batsman": "AB McDonald", "strike_rate": 0 },
+  {
+    "season": 2013,
+    "batsman": "AC Gilchrist",
+    "strike_rate": 133.1877729257642
+  },
+  { "season": 2013, "batsman": "AD Mascarenhas", "strike_rate": 100 },
+  {
+    "season": 2013,
+    "batsman": "AD Mathews",
+    "strike_rate": 125.17985611510792
+  },
+  { "season": 2013, "batsman": "AD Russell", "strike_rate": 85.71428571428571 },
+  { "season": 2013, "batsman": "AG Murtaza", "strike_rate": 125 },
+  { "season": 2013, "batsman": "AJ Finch", "strike_rate": 142.98507462686567 },
+  { "season": 2013, "batsman": "AL Menaria", "strike_rate": 50 },
+  { "season": 2013, "batsman": "AM Nayar", "strike_rate": 95.89041095890413 },
+  { "season": 2013, "batsman": "AM Rahane", "strike_rate": 111.57205240174672 },
+  { "season": 2013, "batsman": "AP Tare", "strike_rate": 146.42857142857142 },
+  {
+    "season": 2013,
+    "batsman": "AS Rajpoot",
+    "strike_rate": 33.333333333333336
+  },
+  { "season": 2013, "batsman": "AT Rayudu", "strike_rate": 120.96069868995632 },
+  {
+    "season": 2013,
+    "batsman": "Azhar Mahmood",
+    "strike_rate": 136.36363636363637
+  },
+  { "season": 2013, "batsman": "B Chipli", "strike_rate": 129.41176470588235 },
+  { "season": 2013, "batsman": "B Kumar", "strike_rate": 74.64788732394366 },
+  { "season": 2013, "batsman": "B Laughlin", "strike_rate": 44.44444444444444 },
+  { "season": 2013, "batsman": "B Lee", "strike_rate": 175 },
+  { "season": 2013, "batsman": "BAW Mendis", "strike_rate": 50 },
+  {
+    "season": 2013,
+    "batsman": "BB McCullum",
+    "strike_rate": 85.71428571428571
+  },
+  {
+    "season": 2013,
+    "batsman": "BB Samantray",
+    "strike_rate": 117.11711711711712
+  },
+  { "season": 2013, "batsman": "BJ Hodge", "strike_rate": 146.08294930875576 },
+  { "season": 2013, "batsman": "BJ Rohrer", "strike_rate": 145.39007092198582 },
+  {
+    "season": 2013,
+    "batsman": "BMAJ Mendis",
+    "strike_rate": 85.18518518518519
+  },
+  { "season": 2013, "batsman": "CA Pujara", "strike_rate": 95.95959595959596 },
+  { "season": 2013, "batsman": "CH Gayle", "strike_rate": 171.36563876651982 },
+  { "season": 2013, "batsman": "CH Morris", "strike_rate": 93.75 },
+  { "season": 2013, "batsman": "CL White", "strike_rate": 120.40816326530611 },
+  { "season": 2013, "batsman": "CM Gautam", "strike_rate": 138.23529411764707 },
+  { "season": 2013, "batsman": "DA Miller", "strike_rate": 171.93675889328065 },
+  { "season": 2013, "batsman": "DA Warner", "strike_rate": 132.09876543209876 },
+  { "season": 2013, "batsman": "DB Das", "strike_rate": 108.10810810810813 },
+  {
+    "season": 2013,
+    "batsman": "DB Ravi Teja",
+    "strike_rate": 94.11764705882354
+  },
+  { "season": 2013, "batsman": "DH Yagnik", "strike_rate": 146.23655913978496 },
+  { "season": 2013, "batsman": "DJ Bravo", "strike_rate": 123.58490566037736 },
+  { "season": 2013, "batsman": "DJ Hussey", "strike_rate": 114.42307692307692 },
+  { "season": 2013, "batsman": "DJG Sammy", "strike_rate": 140.15151515151516 },
+  {
+    "season": 2013,
+    "batsman": "DPMD Jayawardene",
+    "strike_rate": 114.74358974358974
+  },
+  { "season": 2013, "batsman": "DR Smith", "strike_rate": 130.88235294117646 },
+  {
+    "season": 2013,
+    "batsman": "DT Christian",
+    "strike_rate": 46.66666666666666
+  },
+  { "season": 2013, "batsman": "DW Steyn", "strike_rate": 152.77777777777777 },
+  { "season": 2013, "batsman": "EJG Morgan", "strike_rate": 141.25 },
+  { "season": 2013, "batsman": "G Gambhir", "strike_rate": 128.0701754385965 },
+  { "season": 2013, "batsman": "GH Vihari", "strike_rate": 93.14079422382672 },
+  {
+    "season": 2013,
+    "batsman": "GJ Maxwell",
+    "strike_rate": 133.33333333333334
+  },
+  {
+    "season": 2013,
+    "batsman": "Gurkeerat Singh",
+    "strike_rate": 123.15789473684212
+  },
+  {
+    "season": 2013,
+    "batsman": "Harbhajan Singh",
+    "strike_rate": 150.63291139240508
+  },
+  { "season": 2013, "batsman": "Harmeet Singh", "strike_rate": 75 },
+  { "season": 2013, "batsman": "IC Pandey", "strike_rate": 0 },
+  { "season": 2013, "batsman": "IK Pathan", "strike_rate": 102.58064516129032 },
+  {
+    "season": 2013,
+    "batsman": "Iqbal Abdulla",
+    "strike_rate": 64.28571428571429
+  },
+  { "season": 2013, "batsman": "J Botha", "strike_rate": 82.6923076923077 },
+  {
+    "season": 2013,
+    "batsman": "J Syed Mohammad",
+    "strike_rate": 76.92307692307692
+  },
+  { "season": 2013, "batsman": "JA Morkel", "strike_rate": 124.32432432432432 },
+  { "season": 2013, "batsman": "JD Unadkat", "strike_rate": 100 },
+  { "season": 2013, "batsman": "JH Kallis", "strike_rate": 100.62111801242236 },
+  { "season": 2013, "batsman": "JP Faulkner", "strike_rate": 100 },
+  { "season": 2013, "batsman": "K Upadhyay", "strike_rate": 100 },
+  { "season": 2013, "batsman": "KA Pollard", "strike_rate": 157.9136690647482 },
+  {
+    "season": 2013,
+    "batsman": "KB Arun Karthik",
+    "strike_rate": 128.94736842105263
+  },
+  {
+    "season": 2013,
+    "batsman": "KC Sangakkara",
+    "strike_rate": 91.91176470588236
+  },
+  {
+    "season": 2013,
+    "batsman": "KD Karthik",
+    "strike_rate": 131.05134474327627
+  },
+  { "season": 2013, "batsman": "KK Cooper", "strike_rate": 177.27272727272728 },
+  { "season": 2013, "batsman": "KK Nair", "strike_rate": 75 },
+  { "season": 2013, "batsman": "KL Rahul", "strike_rate": 125 },
+  { "season": 2013, "batsman": "KM Jadhav", "strike_rate": 127.64227642276424 },
+  { "season": 2013, "batsman": "KV Sharma", "strike_rate": 105.81395348837208 },
+  {
+    "season": 2013,
+    "batsman": "KW Richardson",
+    "strike_rate": 94.44444444444444
+  },
+  { "season": 2013, "batsman": "L Balaji", "strike_rate": 90 },
+  {
+    "season": 2013,
+    "batsman": "LA Pomersbach",
+    "strike_rate": 108.47457627118644
+  },
+  { "season": 2013, "batsman": "LJ Wright", "strike_rate": 186.4406779661017 },
+  { "season": 2013, "batsman": "LR Shukla", "strike_rate": 33.333333333333336 },
+  {
+    "season": 2013,
+    "batsman": "LRPL Taylor",
+    "strike_rate": 85.52631578947368
+  },
+  { "season": 2013, "batsman": "M Kartik", "strike_rate": 66.66666666666667 },
+  { "season": 2013, "batsman": "M Manhas", "strike_rate": 76.47058823529412 },
+  { "season": 2013, "batsman": "M Morkel", "strike_rate": 200 },
+  { "season": 2013, "batsman": "M Rawat", "strike_rate": 45.45454545454545 },
+  { "season": 2013, "batsman": "M Vijay", "strike_rate": 113.63636363636364 },
+  { "season": 2013, "batsman": "M Vohra", "strike_rate": 137.60683760683762 },
+  {
+    "season": 2013,
+    "batsman": "MA Agarwal",
+    "strike_rate": 111.29032258064515
+  },
+  {
+    "season": 2013,
+    "batsman": "Mandeep Singh",
+    "strike_rate": 122.86995515695068
+  },
+  {
+    "season": 2013,
+    "batsman": "MC Henriques",
+    "strike_rate": 137.90322580645162
+  },
+  { "season": 2013, "batsman": "MC Juneja", "strike_rate": 107.8125 },
+  {
+    "season": 2013,
+    "batsman": "MDKJ Perera",
+    "strike_rate": 115.3846153846154
+  },
+  {
+    "season": 2013,
+    "batsman": "MEK Hussey",
+    "strike_rate": 134.69026548672565
+  },
+  {
+    "season": 2013,
+    "batsman": "MG Johnson",
+    "strike_rate": 122.22222222222224
+  },
+  { "season": 2013, "batsman": "MK Pandey", "strike_rate": 102.18978102189782 },
+  { "season": 2013, "batsman": "MK Tiwary", "strike_rate": 108.57142857142856 },
+  { "season": 2013, "batsman": "MM Sharma", "strike_rate": 0 },
+  { "season": 2013, "batsman": "MN Samuels", "strike_rate": 44.44444444444444 },
+  { "season": 2013, "batsman": "Mohammed Shami", "strike_rate": 50 },
+  { "season": 2013, "batsman": "MR Marsh", "strike_rate": 136.7924528301887 },
+  { "season": 2013, "batsman": "MS Bisla", "strike_rate": 126.38297872340424 },
+  { "season": 2013, "batsman": "MS Dhoni", "strike_rate": 172.14285714285714 },
+  { "season": 2013, "batsman": "MS Gony", "strike_rate": 188 },
+  {
+    "season": 2013,
+    "batsman": "NLTC Perera",
+    "strike_rate": 157.05521472392638
+  },
+  { "season": 2013, "batsman": "NM Coulter-Nile", "strike_rate": 150 },
+  { "season": 2013, "batsman": "NV Ojha", "strike_rate": 90 },
+  { "season": 2013, "batsman": "OA Shah", "strike_rate": 113.04347826086956 },
+  { "season": 2013, "batsman": "P Awana", "strike_rate": 11.11111111111111 },
+  { "season": 2013, "batsman": "P Dogra", "strike_rate": 75 },
+  { "season": 2013, "batsman": "P Kumar", "strike_rate": 144.73684210526315 },
+  { "season": 2013, "batsman": "PA Patel", "strike_rate": 119.6078431372549 },
+  { "season": 2013, "batsman": "PA Reddy", "strike_rate": 94.05940594059406 },
+  {
+    "season": 2013,
+    "batsman": "Parvez Rasool",
+    "strike_rate": 66.66666666666667
+  },
+  { "season": 2013, "batsman": "PC Valthaty", "strike_rate": 58.8235294117647 },
+  { "season": 2013, "batsman": "PJ Sangwan", "strike_rate": 200 },
+  { "season": 2013, "batsman": "PP Chawla", "strike_rate": 122.80701754385964 },
+  { "season": 2013, "batsman": "PP Ojha", "strike_rate": 50 },
+  { "season": 2013, "batsman": "PV Tambe", "strike_rate": 66.66666666666667 },
+  { "season": 2013, "batsman": "Q de Kock", "strike_rate": 46.66666666666666 },
+  { "season": 2013, "batsman": "R Ashwin", "strike_rate": 75.51020408163265 },
+  { "season": 2013, "batsman": "R Bhatia", "strike_rate": 125 },
+  { "season": 2013, "batsman": "R Dhawan", "strike_rate": 123.8095238095238 },
+  { "season": 2013, "batsman": "R Dravid", "strike_rate": 117.21698113207547 },
+  { "season": 2013, "batsman": "R McLaren", "strike_rate": 50 },
+  { "season": 2013, "batsman": "R Rampaul", "strike_rate": 119.44444444444444 },
+  { "season": 2013, "batsman": "R Sathish", "strike_rate": 150 },
+  { "season": 2013, "batsman": "R Sharma", "strike_rate": 70.58823529411765 },
+  { "season": 2013, "batsman": "R Shukla", "strike_rate": 50 },
+  {
+    "season": 2013,
+    "batsman": "R Vinay Kumar",
+    "strike_rate": 161.36363636363637
+  },
+  { "season": 2013, "batsman": "RA Jadeja", "strike_rate": 157.46268656716418 },
+  { "season": 2013, "batsman": "RE van der Merwe", "strike_rate": 104 },
+  { "season": 2013, "batsman": "RG Sharma", "strike_rate": 134.31372549019608 },
+  { "season": 2013, "batsman": "RJ Harris", "strike_rate": 40 },
+  {
+    "season": 2013,
+    "batsman": "RN ten Doeschate",
+    "strike_rate": 141.2698412698413
+  },
+  { "season": 2013, "batsman": "RT Ponting", "strike_rate": 76 },
+  { "season": 2013, "batsman": "RV Gomez", "strike_rate": 400 },
+  { "season": 2013, "batsman": "RV Uthappa", "strike_rate": 123.6413043478261 },
+  { "season": 2013, "batsman": "S Anirudha", "strike_rate": 0 },
+  {
+    "season": 2013,
+    "batsman": "S Badrinath",
+    "strike_rate": 108.33333333333331
+  },
+  { "season": 2013, "batsman": "S Dhawan", "strike_rate": 128.85375494071147 },
+  { "season": 2013, "batsman": "S Kaul", "strike_rate": 77.77777777777777 },
+  { "season": 2013, "batsman": "S Nadeem", "strike_rate": 51.851851851851855 },
+  { "season": 2013, "batsman": "S Narwal", "strike_rate": 160 },
+  { "season": 2013, "batsman": "S Sreesanth", "strike_rate": 50 },
+  {
+    "season": 2013,
+    "batsman": "Sachin Baby",
+    "strike_rate": 57.142857142857146
+  },
+  { "season": 2013, "batsman": "Sandeep Sharma", "strike_rate": 0 },
+  { "season": 2013, "batsman": "SE Marsh", "strike_rate": 127.30923694779116 },
+  { "season": 2013, "batsman": "SK Raina", "strike_rate": 154.3956043956044 },
+  { "season": 2013, "batsman": "SK Trivedi", "strike_rate": 42.85714285714285 },
+  { "season": 2013, "batsman": "SL Malinga", "strike_rate": 55.55555555555556 },
+  { "season": 2013, "batsman": "SMSM Senanayake", "strike_rate": 68.75 },
+  { "season": 2013, "batsman": "SP Narine", "strike_rate": 126.3157894736842 },
+  { "season": 2013, "batsman": "SPD Smith", "strike_rate": 122.72727272727272 },
+  {
+    "season": 2013,
+    "batsman": "SR Tendulkar",
+    "strike_rate": 131.6017316017316
+  },
+  { "season": 2013, "batsman": "SR Watson", "strike_rate": 151.5873015873016 },
+  { "season": 2013, "batsman": "SS Tiwary", "strike_rate": 119.811320754717 },
+  { "season": 2013, "batsman": "STR Binny", "strike_rate": 153.76884422110552 },
+  { "season": 2013, "batsman": "SV Samson", "strike_rate": 116.85393258426966 },
+  { "season": 2013, "batsman": "SW Tait", "strike_rate": 33.333333333333336 },
+  { "season": 2013, "batsman": "TL Suman", "strike_rate": 89.65517241379311 },
+  { "season": 2013, "batsman": "TM Dilshan", "strike_rate": 94.56521739130434 },
+  { "season": 2013, "batsman": "UA Birla", "strike_rate": 64.28571428571429 },
+  { "season": 2013, "batsman": "UBT Chand", "strike_rate": 107.64331210191082 },
+  { "season": 2013, "batsman": "UT Yadav", "strike_rate": 102.63157894736842 },
+  { "season": 2013, "batsman": "V Kohli", "strike_rate": 145.37444933920705 },
+  { "season": 2013, "batsman": "V Sehwag", "strike_rate": 138.8646288209607 },
+  { "season": 2013, "batsman": "WD Parnell", "strike_rate": 71.42857142857143 },
+  { "season": 2013, "batsman": "WP Saha", "strike_rate": 128.57142857142858 },
+  {
+    "season": 2013,
+    "batsman": "X Thalaivan Sargunam",
+    "strike_rate": 58.8235294117647
+  },
+  { "season": 2013, "batsman": "YK Pathan", "strike_rate": 144.35146443514645 },
+  {
+    "season": 2013,
+    "batsman": "Yuvraj Singh",
+    "strike_rate": 128.42105263157896
+  },
+  { "season": 2014, "batsman": "A Mishra", "strike_rate": 114.28571428571428 },
+  {
+    "season": 2014,
+    "batsman": "AB de Villiers",
+    "strike_rate": 164.9193548387097
+  },
+  { "season": 2014, "batsman": "AB Dinda", "strike_rate": 41.66666666666666 },
+  { "season": 2014, "batsman": "AD Russell", "strike_rate": 25 },
+  { "season": 2014, "batsman": "AJ Finch", "strike_rate": 126.8199233716475 },
+  { "season": 2014, "batsman": "AM Nayar", "strike_rate": 102.17391304347828 },
+  { "season": 2014, "batsman": "AM Rahane", "strike_rate": 122.33676975945018 },
+  { "season": 2014, "batsman": "AN Ahmed", "strike_rate": 400 },
+  {
+    "season": 2014,
+    "batsman": "Ankit Sharma",
+    "strike_rate": 116.66666666666669
+  },
+  { "season": 2014, "batsman": "AP Tare", "strike_rate": 142.2680412371134 },
+  { "season": 2014, "batsman": "AR Patel", "strike_rate": 105 },
+  { "season": 2014, "batsman": "AT Rayudu", "strike_rate": 131.8181818181818 },
+  { "season": 2014, "batsman": "B Kumar", "strike_rate": 50 },
+  {
+    "season": 2014,
+    "batsman": "BB McCullum",
+    "strike_rate": 127.32732732732732
+  },
+  { "season": 2014, "batsman": "BCJ Cutting", "strike_rate": 150 },
+  { "season": 2014, "batsman": "BE Hendricks", "strike_rate": 0 },
+  { "season": 2014, "batsman": "BJ Hodge", "strike_rate": 143.05555555555554 },
+  { "season": 2014, "batsman": "BR Dunk", "strike_rate": 125.71428571428572 },
+  { "season": 2014, "batsman": "CA Lynn", "strike_rate": 124.48979591836736 },
+  { "season": 2014, "batsman": "CA Pujara", "strike_rate": 111.3821138211382 },
+  { "season": 2014, "batsman": "CH Gayle", "strike_rate": 114.1304347826087 },
+  {
+    "season": 2014,
+    "batsman": "CJ Anderson",
+    "strike_rate": 150.82872928176795
+  },
+  { "season": 2014, "batsman": "CM Gautam", "strike_rate": 134.54545454545453 },
+  { "season": 2014, "batsman": "DA Miller", "strike_rate": 158.19397993311037 },
+  { "season": 2014, "batsman": "DA Warner", "strike_rate": 149.86522911051213 },
+  { "season": 2014, "batsman": "DH Yagnik", "strike_rate": 83.33333333333333 },
+  { "season": 2014, "batsman": "DJ Bravo", "strike_rate": 266.6666666666667 },
+  { "season": 2014, "batsman": "DJ Hussey", "strike_rate": 125.53191489361704 },
+  { "season": 2014, "batsman": "DJG Sammy", "strike_rate": 130.76923076923077 },
+  { "season": 2014, "batsman": "DR Smith", "strike_rate": 144.33734939759037 },
+  { "season": 2014, "batsman": "DS Kulkarni", "strike_rate": 148 },
+  { "season": 2014, "batsman": "DW Steyn", "strike_rate": 84.61538461538461 },
+  {
+    "season": 2014,
+    "batsman": "F du Plessis",
+    "strike_rate": 131.91489361702128
+  },
+  { "season": 2014, "batsman": "G Gambhir", "strike_rate": 123.79310344827586 },
+  { "season": 2014, "batsman": "GJ Bailey", "strike_rate": 139.36170212765958 },
+  { "season": 2014, "batsman": "GJ Maxwell", "strike_rate": 201.0309278350516 },
+  { "season": 2014, "batsman": "Harbhajan Singh", "strike_rate": 120 },
+  { "season": 2014, "batsman": "HV Patel", "strike_rate": 185.7142857142857 },
+  { "season": 2014, "batsman": "IK Pathan", "strike_rate": 112.96296296296296 },
+  { "season": 2014, "batsman": "Imran Tahir", "strike_rate": 80 },
+  { "season": 2014, "batsman": "JA Morkel", "strike_rate": 114.63414634146342 },
+  {
+    "season": 2014,
+    "batsman": "JD Unadkat",
+    "strike_rate": 16.666666666666668
+  },
+  {
+    "season": 2014,
+    "batsman": "JDS Neesham",
+    "strike_rate": 97.82608695652172
+  },
+  { "season": 2014, "batsman": "JH Kallis", "strike_rate": 120.3125 },
+  { "season": 2014, "batsman": "JJ Bumrah", "strike_rate": 66.66666666666667 },
+  { "season": 2014, "batsman": "JO Holder", "strike_rate": 133.33333333333334 },
+  { "season": 2014, "batsman": "JP Duminy", "strike_rate": 141.72185430463577 },
+  {
+    "season": 2014,
+    "batsman": "JP Faulkner",
+    "strike_rate": 203.2258064516129
+  },
+  { "season": 2014, "batsman": "KA Pollard", "strike_rate": 140.0990099009901 },
+  { "season": 2014, "batsman": "Karanveer Singh", "strike_rate": 100 },
+  {
+    "season": 2014,
+    "batsman": "KD Karthik",
+    "strike_rate": 128.68217054263565
+  },
+  { "season": 2014, "batsman": "KK Cooper", "strike_rate": 169.23076923076923 },
+  { "season": 2014, "batsman": "KK Nair", "strike_rate": 145.68965517241378 },
+  { "season": 2014, "batsman": "KL Rahul", "strike_rate": 104.8780487804878 },
+  { "season": 2014, "batsman": "KM Jadhav", "strike_rate": 160.6060606060606 },
+  {
+    "season": 2014,
+    "batsman": "KP Pietersen",
+    "strike_rate": 133.0472103004292
+  },
+  { "season": 2014, "batsman": "KV Sharma", "strike_rate": 162.06896551724137 },
+  { "season": 2014, "batsman": "KW Richardson", "strike_rate": 50 },
+  { "season": 2014, "batsman": "L Balaji", "strike_rate": 33.333333333333336 },
+  {
+    "season": 2014,
+    "batsman": "LMP Simmons",
+    "strike_rate": 141.0344827586207
+  },
+  { "season": 2014, "batsman": "LR Shukla", "strike_rate": 92.10526315789474 },
+  {
+    "season": 2014,
+    "batsman": "LRPL Taylor",
+    "strike_rate": 105.08474576271186
+  },
+  { "season": 2014, "batsman": "M de Lange", "strike_rate": 50 },
+  { "season": 2014, "batsman": "M Manhas", "strike_rate": 182.6086956521739 },
+  { "season": 2014, "batsman": "M Morkel", "strike_rate": 166.66666666666666 },
+  { "season": 2014, "batsman": "M Vijay", "strike_rate": 117.70833333333331 },
+  { "season": 2014, "batsman": "M Vohra", "strike_rate": 146.98275862068965 },
+  {
+    "season": 2014,
+    "batsman": "MA Agarwal",
+    "strike_rate": 129.67032967032966
+  },
+  { "season": 2014, "batsman": "MA Starc", "strike_rate": 114.28571428571428 },
+  { "season": 2014, "batsman": "Mandeep Singh", "strike_rate": 116 },
+  {
+    "season": 2014,
+    "batsman": "MC Henriques",
+    "strike_rate": 78.57142857142857
+  },
+  {
+    "season": 2014,
+    "batsman": "MEK Hussey",
+    "strike_rate": 121.42857142857144
+  },
+  { "season": 2014, "batsman": "MG Johnson", "strike_rate": 120 },
+  { "season": 2014, "batsman": "MK Pandey", "strike_rate": 127.40524781341108 },
+  { "season": 2014, "batsman": "MK Tiwary", "strike_rate": 134.74576271186442 },
+  { "season": 2014, "batsman": "MM Sharma", "strike_rate": 33.333333333333336 },
+  {
+    "season": 2014,
+    "batsman": "Mohammed Shami",
+    "strike_rate": 57.142857142857146
+  },
+  { "season": 2014, "batsman": "MS Bisla", "strike_rate": 33.333333333333336 },
+  { "season": 2014, "batsman": "MS Dhoni", "strike_rate": 162.75303643724698 },
+  {
+    "season": 2014,
+    "batsman": "NJ Maddinson",
+    "strike_rate": 114.28571428571428
+  },
+  { "season": 2014, "batsman": "NV Ojha", "strike_rate": 158.75 },
+  { "season": 2014, "batsman": "P Kumar", "strike_rate": 50 },
+  { "season": 2014, "batsman": "PA Patel", "strike_rate": 117.29729729729728 },
+  { "season": 2014, "batsman": "PP Chawla", "strike_rate": 173.68421052631578 },
+  { "season": 2014, "batsman": "PP Ojha", "strike_rate": 75 },
+  { "season": 2014, "batsman": "PV Tambe", "strike_rate": 55.55555555555556 },
+  { "season": 2014, "batsman": "Q de Kock", "strike_rate": 123.07692307692308 },
+  { "season": 2014, "batsman": "R Ashwin", "strike_rate": 113.33333333333331 },
+  { "season": 2014, "batsman": "R Bhatia", "strike_rate": 132.0754716981132 },
+  { "season": 2014, "batsman": "R Dhawan", "strike_rate": 109.33333333333331 },
+  { "season": 2014, "batsman": "R Rampaul", "strike_rate": 100 },
+  { "season": 2014, "batsman": "R Shukla", "strike_rate": 85.71428571428571 },
+  { "season": 2014, "batsman": "R Tewatia", "strike_rate": 146.15384615384616 },
+  { "season": 2014, "batsman": "R Vinay Kumar", "strike_rate": 100 },
+  { "season": 2014, "batsman": "RA Jadeja", "strike_rate": 140.36697247706422 },
+  { "season": 2014, "batsman": "RG Sharma", "strike_rate": 131.4569536423841 },
+  {
+    "season": 2014,
+    "batsman": "RN ten Doeschate",
+    "strike_rate": 163.63636363636363
+  },
+  { "season": 2014, "batsman": "RR Rossouw", "strike_rate": 95.1219512195122 },
+  {
+    "season": 2014,
+    "batsman": "RV Uthappa",
+    "strike_rate": 142.46861924686192
+  },
+  { "season": 2014, "batsman": "S Anirudha", "strike_rate": 60 },
+  { "season": 2014, "batsman": "S Dhawan", "strike_rate": 132.17665615141956 },
+  { "season": 2014, "batsman": "S Gopal", "strike_rate": 110 },
+  { "season": 2014, "batsman": "S Kaul", "strike_rate": 100 },
+  { "season": 2014, "batsman": "S Nadeem", "strike_rate": 63.1578947368421 },
+  { "season": 2014, "batsman": "S Rana", "strike_rate": 118.75 },
+  { "season": 2014, "batsman": "SA Yadav", "strike_rate": 156.52173913043478 },
+  { "season": 2014, "batsman": "Sandeep Sharma", "strike_rate": 60 },
+  { "season": 2014, "batsman": "SE Marsh", "strike_rate": 150 },
+  {
+    "season": 2014,
+    "batsman": "Shakib Al Hasan",
+    "strike_rate": 155.55555555555554
+  },
+  {
+    "season": 2014,
+    "batsman": "Shivam Sharma",
+    "strike_rate": 166.66666666666666
+  },
+  { "season": 2014, "batsman": "SK Raina", "strike_rate": 151.82072829131653 },
+  { "season": 2014, "batsman": "SL Malinga", "strike_rate": 50 },
+  { "season": 2014, "batsman": "SP Narine", "strike_rate": 85.71428571428571 },
+  { "season": 2014, "batsman": "SPD Smith", "strike_rate": 145.53571428571428 },
+  { "season": 2014, "batsman": "SR Watson", "strike_rate": 131.8181818181818 },
+  { "season": 2014, "batsman": "STR Binny", "strike_rate": 104.13223140495867 },
+  { "season": 2014, "batsman": "SV Samson", "strike_rate": 128.2051282051282 },
+  { "season": 2014, "batsman": "TG Southee", "strike_rate": 100 },
+  { "season": 2014, "batsman": "UBT Chand", "strike_rate": 33.333333333333336 },
+  { "season": 2014, "batsman": "UT Yadav", "strike_rate": 50 },
+  { "season": 2014, "batsman": "V Kohli", "strike_rate": 126.87074829931971 },
+  { "season": 2014, "batsman": "V Sehwag", "strike_rate": 156.68789808917197 },
+  { "season": 2014, "batsman": "VH Zol", "strike_rate": 111.53846153846152 },
+  { "season": 2014, "batsman": "VR Aaron", "strike_rate": 109.0909090909091 },
+  { "season": 2014, "batsman": "VS Malik", "strike_rate": 50 },
+  { "season": 2014, "batsman": "WD Parnell", "strike_rate": 100 },
+  { "season": 2014, "batsman": "WP Saha", "strike_rate": 150.6024096385542 },
+  {
+    "season": 2014,
+    "batsman": "Y Venugopal Rao",
+    "strike_rate": 128.57142857142858
+  },
+  { "season": 2014, "batsman": "YK Pathan", "strike_rate": 164.84848484848484 },
+  { "season": 2014, "batsman": "YS Chahal", "strike_rate": 200 },
+  {
+    "season": 2014,
+    "batsman": "Yuvraj Singh",
+    "strike_rate": 144.8905109489051
+  },
+  {
+    "season": 2014,
+    "batsman": "YV Takawale",
+    "strike_rate": 121.97802197802196
+  },
+  { "season": 2014, "batsman": "Z Khan", "strike_rate": 142.85714285714286 },
+  {
+    "season": 2015,
+    "batsman": "A Ashish Reddy",
+    "strike_rate": 160.8695652173913
+  },
+  { "season": 2015, "batsman": "A Mishra", "strike_rate": 75 },
+  { "season": 2015, "batsman": "A Nehra", "strike_rate": 57.142857142857146 },
+  {
+    "season": 2015,
+    "batsman": "AB de Villiers",
+    "strike_rate": 185.2233676975945
+  },
+  { "season": 2015, "batsman": "AD Mathews", "strike_rate": 147.5728155339806 },
+  {
+    "season": 2015,
+    "batsman": "AD Russell",
+    "strike_rate": 202.36686390532543
+  },
+  { "season": 2015, "batsman": "AJ Finch", "strike_rate": 75.75757575757575 },
+  { "season": 2015, "batsman": "AM Rahane", "strike_rate": 137.1359223300971 },
+  { "season": 2015, "batsman": "AN Ahmed", "strike_rate": 200 },
+  {
+    "season": 2015,
+    "batsman": "Ankit Sharma",
+    "strike_rate": 116.66666666666669
+  },
+  {
+    "season": 2015,
+    "batsman": "Anureet Singh",
+    "strike_rate": 67.74193548387096
+  },
+  { "season": 2015, "batsman": "AP Tare", "strike_rate": 88.23529411764706 },
+  { "season": 2015, "batsman": "AR Patel", "strike_rate": 125.86206896551724 },
+  { "season": 2015, "batsman": "AT Rayudu", "strike_rate": 148.95833333333334 },
+  { "season": 2015, "batsman": "Azhar Mahmood", "strike_rate": 100 },
+  { "season": 2015, "batsman": "B Kumar", "strike_rate": 170 },
+  {
+    "season": 2015,
+    "batsman": "BB McCullum",
+    "strike_rate": 171.3768115942029
+  },
+  { "season": 2015, "batsman": "BE Hendricks", "strike_rate": 50 },
+  { "season": 2015, "batsman": "Bipul Sharma", "strike_rate": 50 },
+  { "season": 2015, "batsman": "CH Gayle", "strike_rate": 162.53776435045316 },
+  { "season": 2015, "batsman": "CH Morris", "strike_rate": 175.55555555555554 },
+  { "season": 2015, "batsman": "CJ Anderson", "strike_rate": 121.875 },
+  { "season": 2015, "batsman": "CM Gautam", "strike_rate": 80 },
+  { "season": 2015, "batsman": "D Wiese", "strike_rate": 154.11764705882354 },
+  { "season": 2015, "batsman": "DA Miller", "strike_rate": 141.19850187265916 },
+  { "season": 2015, "batsman": "DA Warner", "strike_rate": 165.4494382022472 },
+  { "season": 2015, "batsman": "DJ Bravo", "strike_rate": 139.86486486486487 },
+  { "season": 2015, "batsman": "DJ Hooda", "strike_rate": 164.21052631578948 },
+  {
+    "season": 2015,
+    "batsman": "DJ Muthuswami",
+    "strike_rate": 33.333333333333336
+  },
+  { "season": 2015, "batsman": "DJG Sammy", "strike_rate": 72.22222222222223 },
+  { "season": 2015, "batsman": "DR Smith", "strike_rate": 130.21148036253777 },
+  {
+    "season": 2015,
+    "batsman": "DS Kulkarni",
+    "strike_rate": 45.45454545454545
+  },
+  { "season": 2015, "batsman": "DW Steyn", "strike_rate": 153.84615384615384 },
+  {
+    "season": 2015,
+    "batsman": "EJG Morgan",
+    "strike_rate": 126.49006622516556
+  },
+  {
+    "season": 2015,
+    "batsman": "F du Plessis",
+    "strike_rate": 129.93421052631578
+  },
+  { "season": 2015, "batsman": "G Gambhir", "strike_rate": 124.46043165467626 },
+  { "season": 2015, "batsman": "GB Hogg", "strike_rate": 116.66666666666669 },
+  { "season": 2015, "batsman": "GH Vihari", "strike_rate": 120.58823529411764 },
+  { "season": 2015, "batsman": "GJ Bailey", "strike_rate": 140.52631578947367 },
+  {
+    "season": 2015,
+    "batsman": "GJ Maxwell",
+    "strike_rate": 136.28318584070797
+  },
+  {
+    "season": 2015,
+    "batsman": "Gurkeerat Singh",
+    "strike_rate": 97.43589743589745
+  },
+  {
+    "season": 2015,
+    "batsman": "Harbhajan Singh",
+    "strike_rate": 180.55555555555557
+  },
+  { "season": 2015, "batsman": "HH Pandya", "strike_rate": 203.33333333333331 },
+  { "season": 2015, "batsman": "HV Patel", "strike_rate": 183.33333333333331 },
+  {
+    "season": 2015,
+    "batsman": "Imran Tahir",
+    "strike_rate": 83.33333333333333
+  },
+  {
+    "season": 2015,
+    "batsman": "Iqbal Abdulla",
+    "strike_rate": 141.1764705882353
+  },
+  { "season": 2015, "batsman": "J Botha", "strike_rate": 213.33333333333331 },
+  { "season": 2015, "batsman": "J Suchith", "strike_rate": 159.375 },
+  { "season": 2015, "batsman": "J Theron", "strike_rate": 100 },
+  { "season": 2015, "batsman": "JA Morkel", "strike_rate": 140 },
+  { "season": 2015, "batsman": "JP Duminy", "strike_rate": 138.4126984126984 },
+  {
+    "season": 2015,
+    "batsman": "JP Faulkner",
+    "strike_rate": 143.5185185185185
+  },
+  {
+    "season": 2015,
+    "batsman": "KA Pollard",
+    "strike_rate": 171.76470588235293
+  },
+  { "season": 2015, "batsman": "Karanveer Singh", "strike_rate": 68.75 },
+  {
+    "season": 2015,
+    "batsman": "KD Karthik",
+    "strike_rate": 127.35042735042737
+  },
+  { "season": 2015, "batsman": "KK Nair", "strike_rate": 129.6551724137931 },
+  { "season": 2015, "batsman": "KL Rahul", "strike_rate": 125.80645161290325 },
+  { "season": 2015, "batsman": "KM Jadhav", "strike_rate": 139.28571428571428 },
+  {
+    "season": 2015,
+    "batsman": "KS Williamson",
+    "strike_rate": 140.74074074074073
+  },
+  { "season": 2015, "batsman": "KV Sharma", "strike_rate": 128.23529411764707 },
+  {
+    "season": 2015,
+    "batsman": "LMP Simmons",
+    "strike_rate": 128.76712328767124
+  },
+  { "season": 2015, "batsman": "M Morkel", "strike_rate": 133.33333333333334 },
+  { "season": 2015, "batsman": "M Vijay", "strike_rate": 116.66666666666669 },
+  { "season": 2015, "batsman": "M Vohra", "strike_rate": 108.64197530864196 },
+  { "season": 2015, "batsman": "MA Agarwal", "strike_rate": 128.4090909090909 },
+  { "season": 2015, "batsman": "MA Starc", "strike_rate": 78.57142857142857 },
+  { "season": 2015, "batsman": "Mandeep Singh", "strike_rate": 163 },
+  {
+    "season": 2015,
+    "batsman": "MC Henriques",
+    "strike_rate": 140.95238095238096
+  },
+  {
+    "season": 2015,
+    "batsman": "MEK Hussey",
+    "strike_rate": 115.71428571428572
+  },
+  { "season": 2015, "batsman": "MG Johnson", "strike_rate": 97.22222222222224 },
+  {
+    "season": 2015,
+    "batsman": "MJ McClenaghan",
+    "strike_rate": 216.66666666666663
+  },
+  { "season": 2015, "batsman": "MK Pandey", "strike_rate": 124.45652173913044 },
+  { "season": 2015, "batsman": "MK Tiwary", "strike_rate": 108.92857142857144 },
+  { "season": 2015, "batsman": "MM Sharma", "strike_rate": 155.55555555555554 },
+  { "season": 2015, "batsman": "MS Bisla", "strike_rate": 123.33333333333331 },
+  { "season": 2015, "batsman": "MS Dhoni", "strike_rate": 127.8688524590164 },
+  {
+    "season": 2015,
+    "batsman": "NJ Maddinson",
+    "strike_rate": 57.142857142857146
+  },
+  {
+    "season": 2015,
+    "batsman": "NLTC Perera",
+    "strike_rate": 106.66666666666669
+  },
+  {
+    "season": 2015,
+    "batsman": "NM Coulter-Nile",
+    "strike_rate": 122.22222222222224
+  },
+  { "season": 2015, "batsman": "NV Ojha", "strike_rate": 119.16666666666669 },
+  { "season": 2015, "batsman": "P Kumar", "strike_rate": 72 },
+  { "season": 2015, "batsman": "P Negi", "strike_rate": 175 },
+  { "season": 2015, "batsman": "PA Patel", "strike_rate": 144.71544715447155 },
+  { "season": 2015, "batsman": "Parvez Rasool", "strike_rate": 100 },
+  { "season": 2015, "batsman": "PJ Cummins", "strike_rate": 50 },
+  { "season": 2015, "batsman": "PP Chawla", "strike_rate": 125.53191489361704 },
+  { "season": 2015, "batsman": "PV Tambe", "strike_rate": 60 },
+  { "season": 2015, "batsman": "Q de Kock", "strike_rate": 161.03896103896105 },
+  { "season": 2015, "batsman": "R Ashwin", "strike_rate": 168.75 },
+  { "season": 2015, "batsman": "R Bhatia", "strike_rate": 0 },
+  { "season": 2015, "batsman": "R Dhawan", "strike_rate": 112.12121212121212 },
+  { "season": 2015, "batsman": "R Vinay Kumar", "strike_rate": 100 },
+  { "season": 2015, "batsman": "RA Jadeja", "strike_rate": 108.73015873015872 },
+  { "season": 2015, "batsman": "RG More", "strike_rate": 100 },
+  { "season": 2015, "batsman": "RG Sharma", "strike_rate": 147.74774774774775 },
+  {
+    "season": 2015,
+    "batsman": "RN ten Doeschate",
+    "strike_rate": 137.77777777777777
+  },
+  { "season": 2015, "batsman": "RR Rossouw", "strike_rate": 150 },
+  { "season": 2015, "batsman": "RS Bopara", "strike_rate": 121.66666666666669 },
+  {
+    "season": 2015,
+    "batsman": "RV Uthappa",
+    "strike_rate": 138.62815884476535
+  },
+  { "season": 2015, "batsman": "S Aravind", "strike_rate": 0 },
+  { "season": 2015, "batsman": "S Dhawan", "strike_rate": 129.47368421052633 },
+  { "season": 2015, "batsman": "S Gopal", "strike_rate": 100 },
+  { "season": 2015, "batsman": "S Nadeem", "strike_rate": 28.571428571428573 },
+  { "season": 2015, "batsman": "SA Abbott", "strike_rate": 123.07692307692308 },
+  { "season": 2015, "batsman": "SA Yadav", "strike_rate": 142.47787610619469 },
+  {
+    "season": 2015,
+    "batsman": "Sandeep Sharma",
+    "strike_rate": 64.28571428571429
+  },
+  { "season": 2015, "batsman": "SE Marsh", "strike_rate": 158.06451612903226 },
+  {
+    "season": 2015,
+    "batsman": "Shakib Al Hasan",
+    "strike_rate": 151.85185185185185
+  },
+  { "season": 2015, "batsman": "SK Raina", "strike_rate": 131.02310231023102 },
+  { "season": 2015, "batsman": "SL Malinga", "strike_rate": 80 },
+  { "season": 2015, "batsman": "SN Khan", "strike_rate": 161.42857142857142 },
+  { "season": 2015, "batsman": "SN Thakur", "strike_rate": 116.66666666666669 },
+  { "season": 2015, "batsman": "SP Narine", "strike_rate": 100 },
+  { "season": 2015, "batsman": "SPD Smith", "strike_rate": 139.54545454545453 },
+  { "season": 2015, "batsman": "SR Watson", "strike_rate": 142.4124513618677 },
+  { "season": 2015, "batsman": "SS Iyer", "strike_rate": 135.38011695906434 },
+  { "season": 2015, "batsman": "SS Tiwary", "strike_rate": 153.84615384615384 },
+  { "season": 2015, "batsman": "STR Binny", "strike_rate": 132.30769230769232 },
+  { "season": 2015, "batsman": "SV Samson", "strike_rate": 130.8641975308642 },
+  {
+    "season": 2015,
+    "batsman": "TG Southee",
+    "strike_rate": 144.44444444444446
+  },
+  { "season": 2015, "batsman": "UBT Chand", "strike_rate": 137.34939759036143 },
+  { "season": 2015, "batsman": "UT Yadav", "strike_rate": 221.42857142857144 },
+  { "season": 2015, "batsman": "V Kohli", "strike_rate": 134.4559585492228 },
+  { "season": 2015, "batsman": "V Sehwag", "strike_rate": 128.57142857142858 },
+  { "season": 2015, "batsman": "VR Aaron", "strike_rate": 200 },
+  { "season": 2015, "batsman": "WP Saha", "strike_rate": 135.0253807106599 },
+  { "season": 2015, "batsman": "YK Pathan", "strike_rate": 147.16157205240174 },
+  { "season": 2015, "batsman": "YS Chahal", "strike_rate": 100 },
+  {
+    "season": 2015,
+    "batsman": "Yuvraj Singh",
+    "strike_rate": 122.96650717703348
+  },
+  {
+    "season": 2016,
+    "batsman": "A Ashish Reddy",
+    "strike_rate": 165.51724137931035
+  },
+  { "season": 2016, "batsman": "A Mishra", "strike_rate": 28.571428571428573 },
+  { "season": 2016, "batsman": "A Nehra", "strike_rate": 100 },
+  { "season": 2016, "batsman": "A Zampa", "strike_rate": 0 },
+  {
+    "season": 2016,
+    "batsman": "AB de Villiers",
+    "strike_rate": 176.2962962962963
+  },
+  { "season": 2016, "batsman": "AD Nath", "strike_rate": 74.07407407407408 },
+  {
+    "season": 2016,
+    "batsman": "AD Russell",
+    "strike_rate": 184.21052631578948
+  },
+  { "season": 2016, "batsman": "AJ Finch", "strike_rate": 141.07744107744108 },
+  { "season": 2016, "batsman": "AM Rahane", "strike_rate": 131.4814814814815 },
+  { "season": 2016, "batsman": "Ankit Sharma", "strike_rate": 100 },
+  { "season": 2016, "batsman": "AP Tare", "strike_rate": 80 },
+  { "season": 2016, "batsman": "AR Patel", "strike_rate": 149.35064935064935 },
+  { "season": 2016, "batsman": "AT Rayudu", "strike_rate": 123.82671480144404 },
+  { "season": 2016, "batsman": "B Kumar", "strike_rate": 166.66666666666666 },
+  {
+    "season": 2016,
+    "batsman": "BB McCullum",
+    "strike_rate": 145.4198473282443
+  },
+  { "season": 2016, "batsman": "BB Sran", "strike_rate": 166.66666666666666 },
+  {
+    "season": 2016,
+    "batsman": "BCJ Cutting",
+    "strike_rate": 217.64705882352945
+  },
+  { "season": 2016, "batsman": "Bipul Sharma", "strike_rate": 208 },
+  { "season": 2016, "batsman": "C Munro", "strike_rate": 116.66666666666669 },
+  { "season": 2016, "batsman": "CA Lynn", "strike_rate": 118.1818181818182 },
+  { "season": 2016, "batsman": "CH Gayle", "strike_rate": 164 },
+  { "season": 2016, "batsman": "CH Morris", "strike_rate": 187.1559633027523 },
+  { "season": 2016, "batsman": "CJ Jordan", "strike_rate": 100 },
+  {
+    "season": 2016,
+    "batsman": "CR Brathwaite",
+    "strike_rate": 242.10526315789477
+  },
+  { "season": 2016, "batsman": "D Wiese", "strike_rate": 125 },
+  { "season": 2016, "batsman": "DA Miller", "strike_rate": 130.76923076923077 },
+  { "season": 2016, "batsman": "DA Warner", "strike_rate": 158.42293906810036 },
+  { "season": 2016, "batsman": "DJ Bravo", "strike_rate": 131.70731707317074 },
+  { "season": 2016, "batsman": "DJ Hooda", "strike_rate": 126.890756302521 },
+  { "season": 2016, "batsman": "DR Smith", "strike_rate": 152.27272727272728 },
+  { "season": 2016, "batsman": "DS Kulkarni", "strike_rate": 175 },
+  { "season": 2016, "batsman": "DW Steyn", "strike_rate": 50 },
+  { "season": 2016, "batsman": "EJG Morgan", "strike_rate": 120 },
+  {
+    "season": 2016,
+    "batsman": "ER Dwivedi",
+    "strike_rate": 207.14285714285717
+  },
+  {
+    "season": 2016,
+    "batsman": "F Behardien",
+    "strike_rate": 107.6923076923077
+  },
+  {
+    "season": 2016,
+    "batsman": "F du Plessis",
+    "strike_rate": 137.65432098765433
+  },
+  { "season": 2016, "batsman": "G Gambhir", "strike_rate": 126.52068126520682 },
+  { "season": 2016, "batsman": "GJ Bailey", "strike_rate": 92.78350515463916 },
+  {
+    "season": 2016,
+    "batsman": "GJ Maxwell",
+    "strike_rate": 151.61290322580646
+  },
+  {
+    "season": 2016,
+    "batsman": "Gurkeerat Singh",
+    "strike_rate": 132.5581395348837
+  },
+  {
+    "season": 2016,
+    "batsman": "Harbhajan Singh",
+    "strike_rate": 117.85714285714286
+  },
+  { "season": 2016, "batsman": "HH Pandya", "strike_rate": 87.3015873015873 },
+  { "season": 2016, "batsman": "HM Amla", "strike_rate": 137.81512605042016 },
+  { "season": 2016, "batsman": "IK Pathan", "strike_rate": 100 },
+  {
+    "season": 2016,
+    "batsman": "Imran Tahir",
+    "strike_rate": 71.42857142857143
+  },
+  {
+    "season": 2016,
+    "batsman": "Iqbal Abdulla",
+    "strike_rate": 153.84615384615384
+  },
+  {
+    "season": 2016,
+    "batsman": "Ishan Kishan",
+    "strike_rate": 107.3170731707317
+  },
+  { "season": 2016, "batsman": "J Yadav", "strike_rate": 80 },
+  { "season": 2016, "batsman": "JA Morkel", "strike_rate": 188.88888888888889 },
+  { "season": 2016, "batsman": "JC Buttler", "strike_rate": 144.2622950819672 },
+  { "season": 2016, "batsman": "JJ Bumrah", "strike_rate": 72.72727272727273 },
+  { "season": 2016, "batsman": "JO Holder", "strike_rate": 131.57894736842104 },
+  { "season": 2016, "batsman": "JP Duminy", "strike_rate": 127.09677419354838 },
+  {
+    "season": 2016,
+    "batsman": "JP Faulkner",
+    "strike_rate": 137.93103448275863
+  },
+  {
+    "season": 2016,
+    "batsman": "KA Pollard",
+    "strike_rate": 161.80555555555554
+  },
+  {
+    "season": 2016,
+    "batsman": "KC Cariappa",
+    "strike_rate": 118.1818181818182
+  },
+  { "season": 2016, "batsman": "KD Karthik", "strike_rate": 129.3233082706767 },
+  { "season": 2016, "batsman": "KH Pandya", "strike_rate": 194.3548387096774 },
+  { "season": 2016, "batsman": "KJ Abbott", "strike_rate": 162.5 },
+  { "season": 2016, "batsman": "KK Nair", "strike_rate": 126.44067796610167 },
+  { "season": 2016, "batsman": "KL Rahul", "strike_rate": 153.13653136531366 },
+  { "season": 2016, "batsman": "KM Jadhav", "strike_rate": 148.38709677419354 },
+  {
+    "season": 2016,
+    "batsman": "KP Pietersen",
+    "strike_rate": 122.95081967213116
+  },
+  {
+    "season": 2016,
+    "batsman": "KS Williamson",
+    "strike_rate": 109.8360655737705
+  },
+  { "season": 2016, "batsman": "KV Sharma", "strike_rate": 150 },
+  { "season": 2016, "batsman": "KW Richardson", "strike_rate": 100 },
+  { "season": 2016, "batsman": "LMP Simmons", "strike_rate": 100 },
+  { "season": 2016, "batsman": "M Ashwin", "strike_rate": 0 },
+  { "season": 2016, "batsman": "M Morkel", "strike_rate": 100 },
+  { "season": 2016, "batsman": "M Vijay", "strike_rate": 130.76923076923077 },
+  { "season": 2016, "batsman": "M Vohra", "strike_rate": 128.24427480916032 },
+  { "season": 2016, "batsman": "MA Agarwal", "strike_rate": 112 },
+  {
+    "season": 2016,
+    "batsman": "MC Henriques",
+    "strike_rate": 120.38216560509554
+  },
+  { "season": 2016, "batsman": "MG Johnson", "strike_rate": 42.85714285714285 },
+  { "season": 2016, "batsman": "MJ Guptill", "strike_rate": 110.9090909090909 },
+  {
+    "season": 2016,
+    "batsman": "MJ McClenaghan",
+    "strike_rate": 147.82608695652175
+  },
+  { "season": 2016, "batsman": "MK Pandey", "strike_rate": 144.2622950819672 },
+  { "season": 2016, "batsman": "MM Sharma", "strike_rate": 130.76923076923077 },
+  { "season": 2016, "batsman": "Mohammed Shami", "strike_rate": 75 },
+  {
+    "season": 2016,
+    "batsman": "MP Stoinis",
+    "strike_rate": 142.59259259259258
+  },
+  { "season": 2016, "batsman": "MR Marsh", "strike_rate": 63.63636363636363 },
+  { "season": 2016, "batsman": "MS Dhoni", "strike_rate": 144.28571428571428 },
+  { "season": 2016, "batsman": "N Rana", "strike_rate": 148.64864864864865 },
+  {
+    "season": 2016,
+    "batsman": "NLTC Perera",
+    "strike_rate": 170.65217391304347
+  },
+  {
+    "season": 2016,
+    "batsman": "NM Coulter-Nile",
+    "strike_rate": 64.28571428571429
+  },
+  { "season": 2016, "batsman": "NS Naik", "strike_rate": 87.09677419354838 },
+  { "season": 2016, "batsman": "NV Ojha", "strike_rate": 102.89855072463769 },
+  { "season": 2016, "batsman": "P Kumar", "strike_rate": 96.15384615384616 },
+  { "season": 2016, "batsman": "P Negi", "strike_rate": 105.08474576271186 },
+  { "season": 2016, "batsman": "P Sahu", "strike_rate": 146.15384615384616 },
+  { "season": 2016, "batsman": "PA Patel", "strike_rate": 126.49006622516556 },
+  {
+    "season": 2016,
+    "batsman": "Parvez Rasool",
+    "strike_rate": 111.11111111111111
+  },
+  { "season": 2016, "batsman": "PP Chawla", "strike_rate": 107.6923076923077 },
+  { "season": 2016, "batsman": "PSP Handscomb", "strike_rate": 50 },
+  { "season": 2016, "batsman": "PV Tambe", "strike_rate": 44.44444444444444 },
+  { "season": 2016, "batsman": "Q de Kock", "strike_rate": 146.31901840490798 },
+  { "season": 2016, "batsman": "R Ashwin", "strike_rate": 107.89473684210526 },
+  { "season": 2016, "batsman": "R Bhatia", "strike_rate": 170 },
+  { "season": 2016, "batsman": "R Dhawan", "strike_rate": 233.33333333333331 },
+  { "season": 2016, "batsman": "R Sathish", "strike_rate": 104.16666666666669 },
+  {
+    "season": 2016,
+    "batsman": "R Vinay Kumar",
+    "strike_rate": 108.33333333333331
+  },
+  { "season": 2016, "batsman": "RA Jadeja", "strike_rate": 119.42857142857144 },
+  { "season": 2016, "batsman": "RG Sharma", "strike_rate": 136.0655737704918 },
+  { "season": 2016, "batsman": "RR Pant", "strike_rate": 132.89473684210526 },
+  {
+    "season": 2016,
+    "batsman": "RV Uthappa",
+    "strike_rate": 145.48611111111111
+  },
+  { "season": 2016, "batsman": "S Dhawan", "strike_rate": 122.48243559718968 },
+  { "season": 2016, "batsman": "S Gopal", "strike_rate": 12.5 },
+  { "season": 2016, "batsman": "S Kaushik", "strike_rate": 0 },
+  { "season": 2016, "batsman": "S Nadeem", "strike_rate": 40 },
+  { "season": 2016, "batsman": "SA Yadav", "strike_rate": 137.5886524822695 },
+  {
+    "season": 2016,
+    "batsman": "Sachin Baby",
+    "strike_rate": 161.03896103896105
+  },
+  {
+    "season": 2016,
+    "batsman": "Sandeep Sharma",
+    "strike_rate": 88.88888888888889
+  },
+  { "season": 2016, "batsman": "SB Jakati", "strike_rate": 50 },
+  { "season": 2016, "batsman": "SE Marsh", "strike_rate": 121.64179104477611 },
+  {
+    "season": 2016,
+    "batsman": "Shakib Al Hasan",
+    "strike_rate": 112.26415094339625
+  },
+  { "season": 2016, "batsman": "SK Raina", "strike_rate": 133.97435897435898 },
+  { "season": 2016, "batsman": "SN Khan", "strike_rate": 216.1290322580645 },
+  { "season": 2016, "batsman": "SP Narine", "strike_rate": 61.53846153846154 },
+  { "season": 2016, "batsman": "SPD Smith", "strike_rate": 161.71428571428572 },
+  { "season": 2016, "batsman": "SR Watson", "strike_rate": 134.32835820895522 },
+  { "season": 2016, "batsman": "SS Iyer", "strike_rate": 79.06976744186046 },
+  { "season": 2016, "batsman": "SS Tiwary", "strike_rate": 129.49640287769785 },
+  { "season": 2016, "batsman": "STR Binny", "strike_rate": 179.48717948717947 },
+  { "season": 2016, "batsman": "SV Samson", "strike_rate": 116.66666666666669 },
+  {
+    "season": 2016,
+    "batsman": "SW Billings",
+    "strike_rate": 153.96825396825398
+  },
+  { "season": 2016, "batsman": "Swapnil Singh", "strike_rate": 0 },
+  {
+    "season": 2016,
+    "batsman": "TG Southee",
+    "strike_rate": 183.33333333333331
+  },
+  { "season": 2016, "batsman": "TM Head", "strike_rate": 156.4102564102564 },
+  { "season": 2016, "batsman": "UBT Chand", "strike_rate": 25 },
+  {
+    "season": 2016,
+    "batsman": "UT Khawaja",
+    "strike_rate": 135.35353535353536
+  },
+  { "season": 2016, "batsman": "UT Yadav", "strike_rate": 200 },
+  { "season": 2016, "batsman": "V Kohli", "strike_rate": 156.67189952904238 },
+  { "season": 2016, "batsman": "WP Saha", "strike_rate": 129.24528301886792 },
+  { "season": 2016, "batsman": "YK Pathan", "strike_rate": 152.82258064516128 },
+  {
+    "season": 2016,
+    "batsman": "Yuvraj Singh",
+    "strike_rate": 135.19553072625698
+  },
+  { "season": 2016, "batsman": "Z Khan", "strike_rate": 46.15384615384615 },
+  { "season": 2017, "batsman": "A Choudhary", "strike_rate": 125 },
+  { "season": 2017, "batsman": "A Mishra", "strike_rate": 105.76923076923076 },
+  { "season": 2017, "batsman": "A Zampa", "strike_rate": 71.42857142857143 },
+  {
+    "season": 2017,
+    "batsman": "AB de Villiers",
+    "strike_rate": 142.94478527607362
+  },
+  { "season": 2017, "batsman": "AB Dinda", "strike_rate": 114.28571428571428 },
+  {
+    "season": 2017,
+    "batsman": "AD Mathews",
+    "strike_rate": 122.22222222222224
+  },
+  { "season": 2017, "batsman": "AD Nath", "strike_rate": 0 },
+  { "season": 2017, "batsman": "AF Milne", "strike_rate": 58.333333333333336 },
+  { "season": 2017, "batsman": "AJ Finch", "strike_rate": 175.27472527472528 },
+  { "season": 2017, "batsman": "AJ Tye", "strike_rate": 193.1034482758621 },
+  { "season": 2017, "batsman": "AM Rahane", "strike_rate": 120.12383900928792 },
+  {
+    "season": 2017,
+    "batsman": "Ankit Sharma",
+    "strike_rate": 173.33333333333334
+  },
+  { "season": 2017, "batsman": "Ankit Soni", "strike_rate": 100 },
+  { "season": 2017, "batsman": "Anureet Singh", "strike_rate": 125 },
+  { "season": 2017, "batsman": "AP Tare", "strike_rate": 91.30434782608695 },
+  { "season": 2017, "batsman": "AR Bawne", "strike_rate": 100 },
+  { "season": 2017, "batsman": "AR Patel", "strike_rate": 146.2962962962963 },
+  {
+    "season": 2017,
+    "batsman": "AS Rajpoot",
+    "strike_rate": 57.142857142857146
+  },
+  { "season": 2017, "batsman": "AT Rayudu", "strike_rate": 120.51282051282053 },
+  { "season": 2017, "batsman": "B Kumar", "strike_rate": 100 },
+  { "season": 2017, "batsman": "BA Stokes", "strike_rate": 146.60633484162895 },
+  {
+    "season": 2017,
+    "batsman": "Basil Thampi",
+    "strike_rate": 114.28571428571428
+  },
+  {
+    "season": 2017,
+    "batsman": "BB McCullum",
+    "strike_rate": 151.8181818181818
+  },
+  { "season": 2017, "batsman": "BCJ Cutting", "strike_rate": 200 },
+  { "season": 2017, "batsman": "Bipul Sharma", "strike_rate": 137.5 },
+  {
+    "season": 2017,
+    "batsman": "C de Grandhomme",
+    "strike_rate": 141.30434782608697
+  },
+  { "season": 2017, "batsman": "CA Lynn", "strike_rate": 196.27329192546583 },
+  { "season": 2017, "batsman": "CH Gayle", "strike_rate": 133.9506172839506 },
+  { "season": 2017, "batsman": "CH Morris", "strike_rate": 168.08510638297872 },
+  {
+    "season": 2017,
+    "batsman": "CJ Anderson",
+    "strike_rate": 124.59016393442624
+  },
+  { "season": 2017, "batsman": "CJ Jordan", "strike_rate": 0 },
+  {
+    "season": 2017,
+    "batsman": "CR Brathwaite",
+    "strike_rate": 86.66666666666667
+  },
+  { "season": 2017, "batsman": "CR Woakes", "strike_rate": 97.87234042553192 },
+  { "season": 2017, "batsman": "DA Miller", "strike_rate": 114.1025641025641 },
+  { "season": 2017, "batsman": "DA Warner", "strike_rate": 149.22048997772828 },
+  { "season": 2017, "batsman": "DJ Hooda", "strike_rate": 151.92307692307693 },
+  { "season": 2017, "batsman": "DL Chahar", "strike_rate": 233.33333333333331 },
+  { "season": 2017, "batsman": "DM Bravo", "strike_rate": 120 },
+  { "season": 2017, "batsman": "DR Smith", "strike_rate": 156.4102564102564 },
+  { "season": 2017, "batsman": "DS Kulkarni", "strike_rate": 50 },
+  {
+    "season": 2017,
+    "batsman": "DT Christian",
+    "strike_rate": 171.42857142857142
+  },
+  { "season": 2017, "batsman": "EJG Morgan", "strike_rate": 106.4516129032258 },
+  {
+    "season": 2017,
+    "batsman": "F du Plessis",
+    "strike_rate": 114.28571428571428
+  },
+  { "season": 2017, "batsman": "G Gambhir", "strike_rate": 136.50385604113112 },
+  { "season": 2017, "batsman": "GJ Maxwell", "strike_rate": 188.2022471910112 },
+  { "season": 2017, "batsman": "Harbhajan Singh", "strike_rate": 118.75 },
+  { "season": 2017, "batsman": "HH Pandya", "strike_rate": 168.55345911949686 },
+  { "season": 2017, "batsman": "HM Amla", "strike_rate": 151.9163763066202 },
+  { "season": 2017, "batsman": "I Sharma", "strike_rate": 75 },
+  { "season": 2017, "batsman": "IK Pathan", "strike_rate": 66.66666666666667 },
+  { "season": 2017, "batsman": "Imran Tahir", "strike_rate": 0 },
+  {
+    "season": 2017,
+    "batsman": "Iqbal Abdulla",
+    "strike_rate": 71.42857142857143
+  },
+  { "season": 2017, "batsman": "IR Jaggi", "strike_rate": 92.3076923076923 },
+  {
+    "season": 2017,
+    "batsman": "Ishan Kishan",
+    "strike_rate": 140.97560975609755
+  },
+  {
+    "season": 2017,
+    "batsman": "JC Buttler",
+    "strike_rate": 162.01117318435757
+  },
+  { "season": 2017, "batsman": "JD Unadkat", "strike_rate": 60 },
+  { "season": 2017, "batsman": "JJ Bumrah", "strike_rate": 133.33333333333334 },
+  { "season": 2017, "batsman": "JJ Roy", "strike_rate": 150 },
+  {
+    "season": 2017,
+    "batsman": "JP Faulkner",
+    "strike_rate": 103.57142857142856
+  },
+  { "season": 2017, "batsman": "K Rabada", "strike_rate": 93.75 },
+  {
+    "season": 2017,
+    "batsman": "KA Pollard",
+    "strike_rate": 150.89605734767025
+  },
+  {
+    "season": 2017,
+    "batsman": "KC Cariappa",
+    "strike_rate": 28.571428571428573
+  },
+  {
+    "season": 2017,
+    "batsman": "KD Karthik",
+    "strike_rate": 147.28682170542635
+  },
+  { "season": 2017, "batsman": "KH Pandya", "strike_rate": 145.2513966480447 },
+  { "season": 2017, "batsman": "KK Nair", "strike_rate": 131.41592920353983 },
+  { "season": 2017, "batsman": "KM Jadhav", "strike_rate": 153.55191256830602 },
+  {
+    "season": 2017,
+    "batsman": "KS Williamson",
+    "strike_rate": 157.73809523809524
+  },
+  {
+    "season": 2017,
+    "batsman": "Kuldeep Yadav",
+    "strike_rate": 90.9090909090909
+  },
+  { "season": 2017, "batsman": "KV Sharma", "strike_rate": 121.95121951219512 },
+  { "season": 2017, "batsman": "LH Ferguson", "strike_rate": 100 },
+  {
+    "season": 2017,
+    "batsman": "LMP Simmons",
+    "strike_rate": 130.35714285714286
+  },
+  { "season": 2017, "batsman": "M Vohra", "strike_rate": 157.23270440251574 },
+  { "season": 2017, "batsman": "MA Agarwal", "strike_rate": 107.4074074074074 },
+  {
+    "season": 2017,
+    "batsman": "Mandeep Singh",
+    "strike_rate": 109.03954802259886
+  },
+  {
+    "season": 2017,
+    "batsman": "MC Henriques",
+    "strike_rate": 139.40886699507388
+  },
+  {
+    "season": 2017,
+    "batsman": "MG Johnson",
+    "strike_rate": 123.52941176470588
+  },
+  { "season": 2017, "batsman": "MJ Guptill", "strike_rate": 152.8735632183908 },
+  {
+    "season": 2017,
+    "batsman": "MJ McClenaghan",
+    "strike_rate": 113.33333333333331
+  },
+  { "season": 2017, "batsman": "MK Pandey", "strike_rate": 133.98692810457516 },
+  { "season": 2017, "batsman": "MK Tiwary", "strike_rate": 143.82978723404256 },
+  { "season": 2017, "batsman": "MM Patel", "strike_rate": 0 },
+  { "season": 2017, "batsman": "MM Sharma", "strike_rate": 104 },
+  { "season": 2017, "batsman": "MN Samuels", "strike_rate": 96.7741935483871 },
+  {
+    "season": 2017,
+    "batsman": "Mohammad Nabi",
+    "strike_rate": 66.66666666666667
+  },
+  {
+    "season": 2017,
+    "batsman": "Mohammed Shami",
+    "strike_rate": 154.16666666666666
+  },
+  { "season": 2017, "batsman": "MP Stoinis", "strike_rate": 75 },
+  { "season": 2017, "batsman": "MS Dhoni", "strike_rate": 122.8 },
+  { "season": 2017, "batsman": "N Rana", "strike_rate": 133.46007604562735 },
+  { "season": 2017, "batsman": "NM Coulter-Nile", "strike_rate": 125 },
+  { "season": 2017, "batsman": "NV Ojha", "strike_rate": 129.23076923076923 },
+  { "season": 2017, "batsman": "P Kumar", "strike_rate": 88.88888888888889 },
+  { "season": 2017, "batsman": "P Negi", "strike_rate": 138.73873873873873 },
+  { "season": 2017, "batsman": "PA Patel", "strike_rate": 145.73378839590444 },
+  { "season": 2017, "batsman": "PJ Cummins", "strike_rate": 149.0566037735849 },
+  { "season": 2017, "batsman": "PJ Sangwan", "strike_rate": 50 },
+  { "season": 2017, "batsman": "PP Chawla", "strike_rate": 33.333333333333336 },
+  { "season": 2017, "batsman": "R Bhatia", "strike_rate": 100 },
+  { "season": 2017, "batsman": "R Tewatia", "strike_rate": 181.8181818181818 },
+  { "season": 2017, "batsman": "RA Jadeja", "strike_rate": 145.13274336283186 },
+  {
+    "season": 2017,
+    "batsman": "RA Tripathi",
+    "strike_rate": 153.93258426966293
+  },
+  {
+    "season": 2017,
+    "batsman": "Rashid Khan",
+    "strike_rate": 133.33333333333334
+  },
+  { "season": 2017, "batsman": "RD Chahar", "strike_rate": 150 },
+  { "season": 2017, "batsman": "RG Sharma", "strike_rate": 127.83882783882784 },
+  { "season": 2017, "batsman": "RR Pant", "strike_rate": 170.45454545454547 },
+  {
+    "season": 2017,
+    "batsman": "RV Uthappa",
+    "strike_rate": 176.17021276595744
+  },
+  { "season": 2017, "batsman": "S Aravind", "strike_rate": 87.5 },
+  { "season": 2017, "batsman": "S Badree", "strike_rate": 65.21739130434783 },
+  { "season": 2017, "batsman": "S Dhawan", "strike_rate": 132 },
+  { "season": 2017, "batsman": "S Kaul", "strike_rate": 0 },
+  { "season": 2017, "batsman": "S Nadeem", "strike_rate": 33.333333333333336 },
+  { "season": 2017, "batsman": "SA Yadav", "strike_rate": 122.72727272727272 },
+  {
+    "season": 2017,
+    "batsman": "Sachin Baby",
+    "strike_rate": 113.33333333333331
+  },
+  { "season": 2017, "batsman": "Sandeep Sharma", "strike_rate": 180 },
+  { "season": 2017, "batsman": "SE Marsh", "strike_rate": 142.70833333333334 },
+  { "season": 2017, "batsman": "Shakib Al Hasan", "strike_rate": 100 },
+  { "season": 2017, "batsman": "SK Raina", "strike_rate": 149.3421052631579 },
+  {
+    "season": 2017,
+    "batsman": "SL Malinga",
+    "strike_rate": 233.33333333333331
+  },
+  { "season": 2017, "batsman": "SN Thakur", "strike_rate": 0 },
+  {
+    "season": 2017,
+    "batsman": "SP Jackson",
+    "strike_rate": 122.58064516129032
+  },
+  { "season": 2017, "batsman": "SP Narine", "strike_rate": 182.30769230769232 },
+  { "season": 2017, "batsman": "SPD Smith", "strike_rate": 127.13178294573645 },
+  { "season": 2017, "batsman": "SR Watson", "strike_rate": 96.15384615384616 },
+  { "season": 2017, "batsman": "SS Iyer", "strike_rate": 145.45454545454547 },
+  { "season": 2017, "batsman": "SS Tiwary", "strike_rate": 132.5581395348837 },
+  { "season": 2017, "batsman": "STR Binny", "strike_rate": 105.26315789473684 },
+  { "season": 2017, "batsman": "SV Samson", "strike_rate": 144.6886446886447 },
+  {
+    "season": 2017,
+    "batsman": "SW Billings",
+    "strike_rate": 138.83495145631068
+  },
+  {
+    "season": 2017,
+    "batsman": "Swapnil Singh",
+    "strike_rate": 63.1578947368421
+  },
+  { "season": 2017, "batsman": "TA Boult", "strike_rate": 62.5 },
+  {
+    "season": 2017,
+    "batsman": "TG Southee",
+    "strike_rate": 233.33333333333331
+  },
+  { "season": 2017, "batsman": "TM Head", "strike_rate": 141.66666666666666 },
+  { "season": 2017, "batsman": "TS Mills", "strike_rate": 81.81818181818181 },
+  { "season": 2017, "batsman": "UT Yadav", "strike_rate": 76.92307692307692 },
+  { "season": 2017, "batsman": "V Kohli", "strike_rate": 124.6031746031746 },
+  { "season": 2017, "batsman": "V Shankar", "strike_rate": 140 },
+  {
+    "season": 2017,
+    "batsman": "Vishnu Vinod",
+    "strike_rate": 73.07692307692308
+  },
+  { "season": 2017, "batsman": "VR Aaron", "strike_rate": 50 },
+  { "season": 2017, "batsman": "Washington Sundar", "strike_rate": 100 },
+  { "season": 2017, "batsman": "WP Saha", "strike_rate": 131.72043010752688 },
+  { "season": 2017, "batsman": "YK Pathan", "strike_rate": 134.7826086956522 },
+  { "season": 2017, "batsman": "YS Chahal", "strike_rate": 50 },
+  {
+    "season": 2017,
+    "batsman": "Yuvraj Singh",
+    "strike_rate": 150.5681818181818
+  },
+  { "season": 2017, "batsman": "Z Khan", "strike_rate": 30.76923076923077 }
+]
